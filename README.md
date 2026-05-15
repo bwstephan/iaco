@@ -3,9 +3,8 @@
 This document should give an overview of the mod and the high level concepts behind the changes. The .md files are authored with [Obsidian](https://obsidian.md/) and are best viewed with it. Some references into files won't work without it.
 ## Playing
 
-The mod assumes you have a solid grasp on the fundamentals of Imperial Assault. All basic rules of Imperial Assault are still in effect, unless detailed otherwise by the mod. The [Engine Changes](./Engine%20Changes.md) document aims to centralize all changes to the core mission gameplay.
-The mod should be played with the assistance of Imperial Commander 2 (IC2) and is intended to be a single-player experience. Rounds should be quicker and this will be accomplished to reduce the complexity of interactions of hero activations and through streamlining board state interactions.
-
+The mod assumes you have a solid grasp on the fundamentals of Imperial Assault. All basic rules of Imperial Assault are still in effect, unless detailed otherwise by the mod. The [Engine Changes](./Engine%20Changes.md) document aims to centralize all changes to the core mission gameplay.  
+The mod should be played with the assistance of Imperial Commander 2 (IC2) and is intended to be a single-player experience. Rounds should be quicker and this will be accomplished to reduce the complexity of interactions of hero activations and through streamlining board state interactions.  
 Subsequent modifications to unit templates in IC2 might appear to better fit the style of play.
 
 If you want to jump in and are experienced with Imperial Assault, start here at the [setup for the first mission](./Campaign%20Progression%20and%20Strategy%20Layer.md).
@@ -23,19 +22,16 @@ The SL is a system that replaces the “Campaign Upgrade Stage” of the base ga
 * Upgrades for the Shuttle like capacity, cloaking, bombarding capabilities, …
 ## Troops and Troop Management
 
-The player can’t bring every hero for every mission. Heroes suffer wounds, preventing them from joining subsequent missions unless healed/rested. For this purpose, the player chooses 8 initial heroes as a starting squad that can be extended by hiring (spending credits) or winning over (via a Side Mission) additional heroes.
-
+The player can’t bring every hero for every mission. Heroes suffer wounds, preventing them from joining subsequent missions unless healed/rested. For this purpose, the player chooses 8 initial heroes as a starting squad that can be extended by hiring (spending credits) or winning over (via a Side Mission) additional heroes.  
 Unlike in XCOM, troop flavor should not be fully interchangeable. Heroes in IA: CO should remain an identity via their:
 * HP (and HP growth?)  
 * Speed  
 * Innate defense or offense  
 * Innate skills
-
 In the first versions, this will be shown by running with default Imperial Assault heroes.
 ## Missions and Mission Types
 
-Story Missions and Side Missions will retain the same flavor.
-
+Story Missions and Side Missions will retain the same flavor.  
 Story Missions will advance the narrative and be longer and harder than Side Missions, incentivizing the player to “prepare” for them.
 
 Side Missions reward may reward
@@ -43,7 +39,6 @@ Side Missions reward may reward
 * Credits
 * Specialized bonuses for Cruiser operations
 * Short term boosts for Cruiser operatons (generate Engineering/Workshop output)
-
 Side Missions will (later on) also spawn negative effects, similar the Threat Missions from the Return to Hoth expansion.
 
 In general, missions will not have timers anymore. Pressure will come from limited healing opportunities as well as many weapons having a reload/overheat mechanic.
@@ -53,7 +48,7 @@ To prevent players from lingering too long before the next Story Mission, a Camp
 
 The setting should be more gritty and portray a progression of the troops from “scrappy soldier” to “elite operative group”. Permanent death of troops should be possible. Redesigned enemies should reflect this progression. Fighting Security Guards with smaller blasters first then encountering Storm Troopers and seeing specialized Stormtroopers or Royal Guards at the end.
 
-The story will take place between 0 ABY (A New Hope) and 4 ABY (Return of the Jedi). **“Many Bothans died to bring us this information.”** should be the mantra for what happens in the narrative.
+The story will take place between 0 ABY (A New Hope) and 4 ABY (Return of the Jedi). **“Many Bothans died to bring us this information.”** should be the mantra for what happens in the narrative.  
 The story should kicks off with the heroes discovering the acronym “ODS”. Over Tier-1, heroes ultimately learn that it is the acronym for a new Imperial initiative.
 # Design Concept and Phases
 
