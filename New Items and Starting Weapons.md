@@ -1,7 +1,6 @@
 # Items
 
 The campaign starts with only basic ranged and melee weapons. Research and Side Missions can unlock additional items. Unlocked items are available in unlimited quantity. Items, especially accessories, might still have usage limits (e.g.: “Limit once per mission”).
-
 ## Weapons
 
 ### Starting
@@ -14,8 +13,8 @@ Overheat: 3
 Dice: 1x Green  
 Abilities:
 * \+3 Accuracy  
-* \+ 1 Damage  
-* Surge: \+1 Damage
+* +1 Damage  
+* Surge: +1 Damage
 
 ![[A280 Carbine.png]]
 #### Glie-44
@@ -122,13 +121,13 @@ Cost: 70 Credits
 
 #### Combat Coat
 Abilities:
-* + 2 Health
+* +2 Health
 * Exhaust during an attack targeting you to add 1 Evade to the defense results.
 Cost: 120 Credits
 
 #### Dura Breastplate
 Abilities:
-* + 3 Health
+* +3 Health
 * Exhaust during an attack targeting you to add 1 Block to the defense results.
 Cost: 160 Credits
 
