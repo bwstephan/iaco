@@ -8,15 +8,10 @@ The campaign starts with only basic ranged and melee weapons. Research and Side 
 
 #### A280 Carbine
 Weapon - Ranged
-
 Traits: Blaster - Rifle
-
 Weight: 2
-
 Overheat: 3
-
 Dice: 1x Green
-
 Abilities:
 * \+3 Accuracy  
 * \+ 1 Damage  
