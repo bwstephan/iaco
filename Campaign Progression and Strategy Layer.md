@@ -10,7 +10,7 @@ Additionally, choose each hero to carry one of the following Accessories:
 * [[New Items and Starting Weapons#Medkit|Medkit]]
 * [[New Items and Starting Weapons#Kinetic Detonator|Kinetic Detonator]]
 
-The starting Mission is “Aftermath” (Core Campaign p.4). Jump to the [[Story Missions#1 Aftermath (Core Campaign p.4)|appropriate section in the Story Mission changes list]], and set up the mission accordingly.
+The starting Mission is “The Logbook”. Jump to the [[Story Missions#1 - The Logbook - Ryloth|appropriate section in the Story Mission changes list]], and set up the mission accordingly.
 # Campaign Setup (after the initial mission)
 
 * Shuffle all available green and grey side missions into the Side Mission deck.

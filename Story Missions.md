@@ -10,7 +10,7 @@ With the heroes of the Alliance occupied with more important matters, a group of
 
 # Tier 1
 
-## 1 The Logbook - Ryloth
+## 1 - The Logbook - Ryloth
 
 Threat Level 2
 ![[01 - The Logbook.png]]
