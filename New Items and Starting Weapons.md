@@ -6,39 +6,10 @@ The campaign starts with only basic ranged and melee weapons. Research and Side 
 ### Starting
 
 #### A280 Carbine
-Weapon - Ranged  
-Traits: Blaster - Rifle  
-Weight: 2  
-Overheat: 3  
-Dice: 1x Green  
-Abilities:
-* \+3 Accuracy  
-* +1 Damage  
-* Surge: +1 Damage
-
 ![A280 Carbine](./Custom%20Cards/A280%20Carbine.png)
 #### Glie-44
-Weapon - Ranged  
-Traits: Blaster - Pistol  
-Weight: 1  
-Overheat: 4  
-Dice: 1x Yellow  
-Abilities:
-* +2 Accuracy
-* Surge: +2 Damage
-* Surge: +1 Accuracy
-
 ![Glie-44](./Custom%20Cards/Glie-44.png)
 #### Plasteel Staff
-Weapon - Melee  
-Traits: Staff  
-Weight: 1  
-Dice: 1x Green  
-Abilities:
-* +2 Damage
-* Surge: Stun
-* Surge: +1 Damage
-
 ![Plasteel Staff](./Custom%20Cards/Plasteel%20Staff.png)
 ### Tier 1
 
@@ -143,19 +114,8 @@ Cost: 160 Credits
 ### Starting
 
 #### Medkit
-Accessory  
-Traits: Medical  
-Abilities:
-* Special Action: Deplete the Medkit and choose yourself or an adjacent friendly figure to recover 5 Damage. After this action, place the card face down on the hero that recovered damage.
-* Exhaust to discard Bleeding.
-
 ![Medkit](./Custom%20Cards/Medkit.png)
 #### Kinetic Detonator
-Accessory  
-Traits: Grenade  
-Abilities:
-* Special Action: Deplete this card and Throw 3. Every figure on or adjacent to the target space suffers 1 damage.
-
 ![Kinetic Detonator](./Custom%20Cards/Kinetic%20Detonator.png)
 ### Tier 1
 
