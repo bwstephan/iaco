@@ -1,2 +1,101 @@
-# iaco
-Imperial Assault - Covert Operations
+# Vision
+
+This document should give an overview of the mod and the high level concepts behind the changes.
+
+## Playing
+
+The mod assumes you have a solid grasp on the fundamentals of Imperial Assault. All basic rules of Imperial Assault are still in effect, unless detailed otherwise by the mod. The [Engine Changes](./Engine%20Changes.md) document aims to centralize all changes to the core mission gameplay.  
+The mod should be played with the assistance of Imperial Commander 2 (IC2) and is intended to be a single-player experience. Rounds should be quicker and this will be accomplished to reduce the complexity of interactions of hero activations and through streamlining board state interactions.  
+Subsequent modifications to unit templates in IC2 might appear to better fit the style of play.  
+If you want to jump in and are experienced with Imperial Assault, start here at the [setup for the first mission](./Campaign%20Progression%20and%20Strategy%20Layer.md#Setup for the first Mission).
+
+## Strategy Layer (SL)
+
+The SL is a system that replaces the “Campaign Upgrade Stage” of the base game and the core part of the mod. Instead of buying gear revealed of a tier deck, The resources go into upgrading a run-down [Gozanti-class cruiser](https://starwars.fandom.com/wiki/Gozanti-class_cruiser), the RSV Lance, and an old [Sheathipede shuttle](https://starwars.fandom.com/wiki/Sheathipede-class_transport_shuttle). The cruiser can be fitted out with specialized facilities that improved the heroes and their effectiveness in battle. Ideas for facilities are
+
+* An Infirmary \- upgradable with a Bacta Tank \- to reduce wound healing times.  
+* A workshop to upgrade weapons and armor with attachments and potentially manufacture attachments  
+* A lab to research better weapons and armor (manufactured in the workshop?) also by studying imperial enemies.  
+* Droid bay to construct and repair droid heroes (later on).  
+* Training rooms to improve or change skills of heroes.  
+* A communication room to better communicate with resistance cells and Rebel High Command in other systems.  
+* Defenses (outside and inside?) to repel imperial attacks/raids?  
+* Upgrades for the Shuttle like capacity, cloaking, bombarding capabilities, …
+
+## Troops and Troop Management
+
+The player can’t bring every hero for every mission. Heroes incur fatigue and wounds, preventing them from joining subsequent missions unless healed/rested. For this purpose, the player chooses 8 initial heroes as a starting squad that can be extended by hiring (spending credits) or winning over (via a Side Mission) additional heroes.
+
+Unlike in XCOM, troop flavor should not be fully interchangeable. Heroes in IA: CO should remain an identity via their:
+
+* HP (and HP growth?)  
+* Speed  
+* Innate defense or offense  
+* Innate skills
+
+In the first versions, this will be shown by running with defaulr Imperial Assault heroes.
+
+## Missions and Mission Types
+
+Story Missions and Side Missions will retain the same flavor.  
+Story Missions will advance the narrative and be longer and harder than Side Missions, incentivizing the player to “prepare” for them.  
+Side Missions reward additional heroes (no Allies).  
+Side Missions will (later on) also spawn negative effects, similar the Threat Missions from the Return to Hoth expansion.
+
+In general, missions will not have timer anymore. Pressure will come from limited healing opportunities as well as many weapons having a reload/overheat mechanic.
+
+To prevent players from lingering too long before the next Story Mission, a Timer will make Story Missions more difficult if too many missions have been played between them. This timer never fully resets, so Story Missions will become more difficult eventually.
+
+## Narration and Story
+
+The setting should be more gritty and portray a progression of the troops from “scrappy soldier” to “elite operative group”. Permanent death of troops should be possible. Redesigned enemies should reflect this progression. Fighting Security Guards with smaller blasters first then encountering Storm Troopers and seeing specialized Stormtroopers or Royal Guards at the end.
+
+The story will take place between 0 ABY (A New Hope) and 4 ABY (Return of the Jedi). “Many Bothans died to bring us this information.” should be the mantra for what happens in the narrative.  
+The story should kicks off with the heroes discovering the acronym “ODS”. Over Tier-1, heroes ultimately learn that it is the acronym for a new Imperial initiative.
+
+# Design Concept and Phases
+
+## Concept
+
+* Original Material should be used as much as possible.  
+* The project assumes that players have access to play material of all expansions (power tokens, tokens from specific hero characters, map tiles, missions, models, …).  
+* Rules for movement, line of sight, attacks and round phases should be changed as little as possible.
+
+## Phases
+
+### Initial Release \~Q2/26 \- A New Threat
+
+* Works with traditional Heroes and their skill trees.  
+* Reworks some parts of the engine surrounding strain and attacks.  
+* Introduces new starting weapons and weapons to research.  
+* Introduces new Gear and systems to research/acquire gear.  
+* Introduces the SL, the new campaign progression and how to acquire weapons, armor and accessories.  
+* Introduces the new narrative goal \- only resolved until the end of tier 1 of the campaign progression (about 4 story missions)
+
+### Reworked Characters and Abilities \~Q4/26 \- Rebel Reinforcements
+
+* Heroes reworked to use the skirmish card design.  
+* Many Allies reworked as heroes.  
+* Classes reworked and more freely assignable to heroes.  
+* Changes to enemies to resolved too much movement in IC2.  
+* Campaign starts with 3 seats on the Lambda T4 shuttle (upgradeable to 5).  
+* Introduces better wound and fatigue systems.  
+* Expands the new narrative goal \- only resolved until the end of tier 2 of the campaign progression (additional 4 story missions).
+
+### Reworked Missions \~Q3/27 \- Unveiling
+
+* Reworks many missions to better fit the campaign progression and SL.  
+* Threats for Side Missions.  
+* Retaliation Timer that triggers Forced Missions.  
+* (Random) Villains introduced. Maybe tied to Agendas. Sub-plot to defeat them?  
+* More changes to enemies.  
+* Droid heroes that don’t suffer wounds/fatigue?  
+* Finalizes the new narrative goal \- up to tier 3 of the campaign progression (additional 4 story missions).
+
+# Idea Storage
+
+* Galactic map made up of sectors that can be “liberated”. Bonuses for the player based on which sectors are liberated. Sectors on the Outer Rim are more easily liberated.  
+* Travel time between missions.  
+* Mission selection based on location of the cruiser in the galaxy.  
+* Using range values as proxy for accuracy, increasing or lowering damage.  
+* 

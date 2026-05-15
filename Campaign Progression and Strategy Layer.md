@@ -83,7 +83,7 @@ These facilities can be built into one (or more) of the
 * Upgrade: Additional \+2 Surges per dedicated troop member for research.
 Cost: 200 Credits
 ### Workshop
-* \+1 Surge per dedicated troop member for building facilities or droids (droids are mechanized troops that do not get wound penalties and will be introduced with the [[1 Vision and Design#Reworked Characters and Abilities ~Q4/26 - Rebel Reinforcements|Rebel Reinforcements]] Update).  
+* \+1 Surge per dedicated troop member for building facilities or droids (droids are mechanized troops that do not get wound penalties and will be introduced with the [[README#Reworked Characters and Abilities ~Q4/26 - Rebel Reinforcements|Rebel Reinforcements]] Update).  
 * Unlocks Special Weapons research.  
 * Unlocks Upgrades for other facilities.
 Cost: 200 Credits
