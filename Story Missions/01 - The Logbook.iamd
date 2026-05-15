@@ -112,10 +112,6 @@
     ],
     "Tokens": [
       {
-        "TokenType": "ImperialDeploymentPointGreen",
-        "Position": "-1, 1"
-      },
-      {
         "TokenType": "Entrance",
         "Position": "-5, -8"
       },
@@ -154,6 +150,14 @@
       {
         "TokenType": "Terminal",
         "Position": "2, -3"
+      },
+      {
+        "TokenType": "ImperialDeploymentPointGreen",
+        "Position": "2, -2"
+      },
+      {
+        "TokenType": "ImperialDeploymentPointGreen",
+        "Position": "-1, 2"
       }
     ],
     "FigureTokens": [
