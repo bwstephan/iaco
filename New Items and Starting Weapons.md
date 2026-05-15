@@ -31,6 +31,8 @@ Abilities:
 * Surge: \+2 Damage  
 * Surge: \+1 Accuracy
 
+![[Glie-44.png]]
+
 #### Plasteel Staff
 
 Weapon \- Melee  
@@ -42,7 +44,7 @@ Abilities:
 * Surge: Stun  
 * Surge: \+1 Damage
 
-![[Plasteel Staff.png]]
+![[Glie-44.png]]
 ### Tier 1
 
 #### Scatter Blaster
@@ -153,19 +155,21 @@ Cost: 280 Credits
 Accessory  
 Traits: Medical  
 Abilities:
-* Special Action: Deplete the Medkit and choose yourself or an adjacent friendly figure to recover 5 Damage. After this action, place the card face down on the hero that recovered damage.  
+* Special Action: Deplete the Medkit and choose yourself or an adjacent friendly figure to recover 5 Damage. After this action, place the card face down on the hero that recovered damage.
 * Exhaust to discard Bleeding.
 
+![[Medkit.png]]
 #### Kinetic Detonator
 
 Accessory  
 Traits: Grenade  
 Abilities:
-* Special Action: Deplete this card and Throw 3\. Every figure on or adjacent to the target space suffers 1 damage.
+* Special Action: Deplete this card and Throw 3. Every figure on or adjacent to the target space suffers 1 damage.
 
+![[Kinetic Detonator.png]]
 ### Tier 1
 
-#### Flash Bomb
+#### Flash Grenade
 
 Trait: Grenade  
 Abilities:

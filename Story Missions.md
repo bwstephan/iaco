@@ -24,7 +24,7 @@ With the heroes of the Alliance being occupied with more important tasks, a grou
 * The mission does not end at the end of round 6 as a defeat to the rebels anymore.
 * The mission ends as victory when the outpost logbook has been downloaded and all terminals are destroyed.
 * The locked door has a defense of 1 block.
-* The E-Web Engineer deployed through “Fortified” has 1 block.
+* The E-Web Engineer deployed through “Fortified” has 1 block but does not get Focused.
 * Rewards: 200 credits total and 1 XP for participating heroes.
 * All heroes withdrawn: Campaign defeat.
 * There is currently no next Story Mission.
