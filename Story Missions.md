@@ -117,11 +117,11 @@ With the heroes of the Alliance occupied with more important matters, a group of
 
 [PDF Link to the original Double Agent mission.](https://drive.google.com/file/d/1Kdk2POyU0vSxodTgWVXXqJ796r29jou2/view?usp=drive_link)
 ### Card Text
-> You made contact with Kalev Sorn, who is still working for the Empire. After establishing your connection to Vos, he agrees to meet you in a diner to hand over the scrambling seed. He chose a diner neer Juni Street Station. With all the light of the casinos, it will be hard to stay undetected.
+> You made contact with Kalev Sorn, who is still working for the Empire. After establishing your connection to Vos, he agrees to meet you in a diner to hand over the scrambling seed. He chose a diner near Juni Street Station. With all the light of the casinos, it will be hard to stay undetected.
 ### Mission Briefing
 > Half your team stands guard outside while the other half gets into the diner. With Kalev nowhere in sight, you decide to take a table and order something to drink. You wanted something light but the waitress talked you into upgrading your beverages. You chuck down barely half of them before someone a long black cloak enters.
 > Rolling your eyes at the obvious disguise you confront the new patron. "You need to get me out of here!" Kalev exhales anxiously into your ear. You spot movement out o the corner of your eye.
-> Outside the diner, a bright orb decends onto your getaway speeder, exploding it into metal shrapnel. In the sky, you can see the bomber circlying around to make another pass. You grab Kalev, shouting "I hope you got what we came for!", before activating your emergency beacon, letting Rell know to come in or a hot extraction.
+> Outside the diner, a bright orb decends onto your getaway speeder, exploding it into metal shrapnel. In the sky, you can see the bomber circlying around to make another pass. You grab Kalev, shouting "I hope you got what we came for!" before activating your emergency beacon, letting Rell know to come in or a hot extraction.
 ### Gameplay Changes
 
  * Threat level is 3.
