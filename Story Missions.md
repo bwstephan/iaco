@@ -10,40 +10,44 @@ With the heroes of the Alliance occupied with more important matters, a group of
 
 # Tier 1
 
-## 1 Aftermath (Core Campaign p.4) - Ryloth
+## 1 The Logbook - Ryloth
 
-[PDF Link to the original Aftermath mission.](https://drive.google.com/file/d/1DcFnCJ8ye0ZJJ2V0TGxDXp4tv3xZesZW/view?usp=drive_link)
+Threat Level 2
+![[01 - The Logbook.png]]
 ### Mission Briefing
 > The deep shadows cast by the trees do little to cool you in the humid climate of Ryloth's jungles. You approach the place your contact told you about and soon can hear sounds you recognize as Stormtrooper radio chatter.
 > Being careful with your approach, you manage to sneak close, overhearing an Imperial officer: "... and keep your grubby gloves off my terminals. This is important data and we can't afford to lose it!".
-> You heard enough and charge out of your hiding spot, seizing the advantage for your first attack.
-### Gameplay Changes
-* Threat Level is 2.
-* After setup, remove all crate tokens from the map.
-* Heroes can interact with a terminal (Tech) to access it and download the outpost logbook.
-* The mission does not end at the end of round 6 as a defeat to the rebels anymore.
-* The mission ends as victory when the outpost logbook has been downloaded and all terminals are destroyed.
-* The locked door has a defense of 1 block.
-* The E-Web Engineer deployed through “Fortified” has 1 block but does not get Focused.
-* All heroes withdrawn: Campaign defeat.
-* There is currently no next Story Mission.
+> You heard enough and charge out of your hiding spot, seizing the advantage for your first attack.  
+* A Rebel hero can attack a terminal (Health: 4, Defense: 1 block). Apply +1 block to the terminals defense results if it is adjacent to 1 or more Imperial figures. Remove destroyed terminals from the map.
+* A Rebel hero can interact with a terminal (1 Tech) to download the outpost logbook.
+* Doors are locked to Imperial figures.
+* The mission is won, when the outpost logbook has been downloaded and all terminals are destroyed.
+* When all heroes withdraw, the campaign is lost. You may retry the mission.
 ### Fortified
 *The first time the door opens.*
 > "They're here!" the Imperial forces shout, as they scramble their defenses. "Keep them away from the terminals!"
-> There's a crackle from your comlink. "Imperial forces on approach!" your contact tells you. "Just get whatever you can and get out! Transport is waiting for you."
+> There's a crackle from your comlink. "Imperial forces on approach!" your contact tells you. "Just get whatever you can and get out! Transport is waiting for you."  
+* Deploy the reseved E-Web Engineer to any yellow point.
+* Deploy the reserved Stormtrooper group and Imperial Officer to the red deployment point.
+### Lockdown
+*At the end of the Round in which one of the doors open for the first time.*  
+The Imperial player chooses 1 of the following:
+* Each terminal has 7 Health instead of 4.
+* The doors close and are locked. A Rebel figure can attack a door (Health: 7, Defense: 1 block). The red deployment point is now active.
 ### End of Mission
 *When the logbook is downloaded and all terminals are destroyed.*
 > Data in hand, you use a gap in the reinforcements to sprint to the shuttle. "Nice job!" your pilot Rell Orvane grins back at you while you strap in for a rapid ascent.
-
-* Rewards
-	* 200 credits total and 1 XP for participating heroes.
+### Rewards
+* The group receives 200 credits in total and each hero receives 1 XP.
+* There is no active Story Mission.
 ### Epilog
 > Back on board the RSV Lance, you take the rest of the day off. At dinner in the mess hall, a tall Twi'lek women approaches you, swinging a data pad angrily in your face. "If I knew you would only bring useless stuff, I would have told Vos to send a better squad!". An older human man in a commander jacket you know as Halren Vos catches up with her. "They couldn't know, Patch!". "Fine! I told you, the only thing I could find is this ODS stuff. No chance of getting into the actual codes without help." the women explains.
 > Looking at you again, visually calmer now, she says "I am sorry for being brash. I am Tiala Syn, but most here call me Patch. Your contact on Ryloth is actually a friend of mine. Down there they know something is up, but we are still in the dark." Patch fills you in on her attempts to decrypt the data you retreived. She keeps repeating the letters "ODS" without telling you what it is. You wait for a pause to ask her. "I don't know. Some stupid Imperial acronym I guess. If only I had better hardware ...."
 > Vos, always looking for the up suggests "I am sure we can get help from the Alliance, once we can contact them again. You could help us get our Comms Station in working order again. While this is underway, I am sure our friends on Ryloth have something with a bit more action in store for our troops as well."
 ## Intermission
-*When the Comms Station is constructed*
-> Only a couple of hours after the Comms Station is functional again, Vos swings by your quarters and gives you the news. "The Alliance can't give us hardware just yet, but I have something else for you. Captain Solo recently put out an open bulleting across the rebel network for someone to retreive the droid C-3PO. He sent him to Tattooine to contact one of his old friends there. The droid hasn't reported back for a few days now, so someone needs to head there to look for it. For some reason Captain Solo can't go there himself, so he put up the request on Alliance Net. I was thinking you folks might go there and grab Mr. Golden Rod. We can surely use his processing to help us decrypt the data before we return him to Captain Solo."
+*When the Comms Station is constructed.*
+> Only a couple of hours after the Comms Station is functional again, Vos swings by your quarters and gives you the news. "The Alliance can't give us hardware just yet, but I have something else for you. Captain Solo recently put out an open bulleting across the rebel network for someone to retreive the droid C-3PO. He sent him to Tattooine to contact one of his old friends there. The droid hasn't reported back for a few days now, so someone needs to head there to look for it. For some reason Captain Solo can't go there himself, so he put up the request on Alliance Net. I was thinking you folks might go there and grab Mr. Golden Rod. We can surely use his processing to help us decrypt the data before we return him to Captain Solo."  
+* Add "Past Life Enemies" as an active Story Mission.
 ## 2 Past Life Enemies (Twin Shadows p.10) - Tattooine
 
 [PDF Link to the original Past Life Enemies mission.](https://drive.google.com/file/d/1FbVh3EZWInEMSoiBn48yxKtBmdORpe3Z/view?usp=drive_link)

@@ -1,0 +1,224 @@
+{
+  "Map": {
+    "Name": "The Logbook",
+    "MissionType": "Campaign",
+    "Tiles": [
+      {
+        "AssetId": "SWI01-01A",
+        "Position": "-2, -5",
+        "Rotation": "Rotate270"
+      },
+      {
+        "AssetId": "SWI01-18A",
+        "Position": "-3, -9",
+        "Rotation": "Rotate180"
+      },
+      {
+        "AssetId": "SWI01-09A",
+        "Position": "3, -4",
+        "Rotation": "Rotate180"
+      },
+      {
+        "AssetId": "SWI01-18A",
+        "Position": "2, -2",
+        "Rotation": "RotateNone"
+      },
+      {
+        "AssetId": "SWI01-38B",
+        "Position": "6, -5",
+        "Rotation": "Rotate180"
+      },
+      {
+        "AssetId": "SWI01-31B",
+        "Position": "8, -5",
+        "Rotation": "Rotate180"
+      },
+      {
+        "AssetId": "SWI01-32B",
+        "Position": "11, -5",
+        "Rotation": "Rotate270"
+      },
+      {
+        "AssetId": "SWI01-07A",
+        "Position": "-1, 1",
+        "Rotation": "Rotate90"
+      },
+      {
+        "AssetId": "SWI01-17A",
+        "Position": "1, 2",
+        "Rotation": "RotateNone"
+      },
+      {
+        "AssetId": "SWI01-38B",
+        "Position": "3, 2",
+        "Rotation": "Rotate180"
+      },
+      {
+        "AssetId": "SWI01-34B",
+        "Position": "5, 2",
+        "Rotation": "RotateNone"
+      },
+      {
+        "AssetId": "SWI01-25B",
+        "Position": "8, 2",
+        "Rotation": "RotateNone"
+      },
+      {
+        "AssetId": "SWI01-32B",
+        "Position": "11, 2",
+        "Rotation": "RotateNone"
+      },
+      {
+        "AssetId": "SWI01-22B",
+        "Position": "11, -1",
+        "Rotation": "Rotate270"
+      },
+      {
+        "AssetId": "SWI01-17A",
+        "Position": "-3, -2",
+        "Rotation": "Rotate90"
+      },
+      {
+        "AssetId": "SWI01-35B",
+        "Position": "9, -5",
+        "Rotation": "RotateNone"
+      },
+      {
+        "AssetId": "SWI01-35B",
+        "Position": "10, -4",
+        "Rotation": "Rotate90"
+      },
+      {
+        "AssetId": "SWI01-29B",
+        "Position": "8, -2",
+        "Rotation": "Rotate270"
+      },
+      {
+        "AssetId": "SWI01-36B",
+        "Position": "6, -2",
+        "Rotation": "Rotate90"
+      }
+    ],
+    "Zones": [],
+    "Doors": [
+      {
+        "Position": "4, 2",
+        "Rotation": "RotateNone"
+      },
+      {
+        "Position": "7, -5",
+        "Rotation": "RotateNone"
+      }
+    ],
+    "Tokens": [
+      {
+        "TokenType": "ImperialDeploymentPointGreen",
+        "Position": "-1, 1"
+      },
+      {
+        "TokenType": "Entrance",
+        "Position": "-5, -8"
+      },
+      {
+        "TokenType": "Terminal",
+        "Position": "8, 3"
+      },
+      {
+        "TokenType": "ImperialDeploymentPointYellow",
+        "Position": "10, 2"
+      },
+      {
+        "TokenType": "Terminal",
+        "Position": "9, -1"
+      },
+      {
+        "TokenType": "ImperialDeploymentPointRed",
+        "Position": "11, -2"
+      },
+      {
+        "TokenType": "Terminal",
+        "Position": "11, -3"
+      },
+      {
+        "TokenType": "Terminal",
+        "Position": "0, 0"
+      },
+      {
+        "TokenType": "ImperialDeploymentPointYellow",
+        "Position": "0, -4"
+      },
+      {
+        "TokenType": "ImperialDeploymentPointYellow",
+        "Position": "11, -4"
+      },
+      {
+        "TokenType": "Terminal",
+        "Position": "2, -3"
+      }
+    ],
+    "FigureTokens": [
+      {
+        "CardIdentifier": {
+          "Name": "Stormtrooper",
+          "IsElite": false
+        },
+        "Color": "Gray",
+        "Position": "-1, -1",
+        "Rotation": "RotateNone"
+      },
+      {
+        "CardIdentifier": {
+          "Name": "Stormtrooper",
+          "IsElite": false
+        },
+        "Color": "Gray",
+        "Position": "1, -4",
+        "Rotation": "RotateNone"
+      },
+      {
+        "CardIdentifier": {
+          "Name": "Stormtrooper",
+          "IsElite": false
+        },
+        "Color": "Gray",
+        "Position": "0, -3",
+        "Rotation": "RotateNone"
+      },
+      {
+        "CardIdentifier": {
+          "Name": "Probe Droid",
+          "IsElite": false
+        },
+        "Color": "Gray",
+        "Position": "1, 1",
+        "Rotation": "RotateNone"
+      },
+      {
+        "CardIdentifier": {
+          "Name": "Imperial Officer",
+          "IsElite": false
+        },
+        "Color": "Gray",
+        "Position": "0, 1",
+        "Rotation": "RotateNone"
+      }
+    ]
+  },
+  "MissionBriefingPages": [
+    {
+      "Name": "Page 1",
+      "SizeInMm": "210, 297",
+      "PageSize": "A4"
+    },
+    {
+      "Name": "Page 1",
+      "SizeInMm": "190.48, 241.27",
+      "PageSize": "SmallRulebook"
+    },
+    {
+      "Name": "Page 1",
+      "SizeInMm": "190.48, 241.27",
+      "PageSize": "SmallRulebook"
+    }
+  ]
+}
