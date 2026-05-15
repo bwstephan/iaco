@@ -1,5 +1,5 @@
 * ~~Move documentation to .md~~
-* Create a GitHub repo
+* ~~Create a GitHub repo~~
 * ~~Finalize Story Mission selection~~
 * ~~Modify rules of Story Missions~~
 * Rewrite story for Tier-1 Story Missions

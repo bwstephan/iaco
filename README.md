@@ -93,3 +93,4 @@ The story should kicks off with the heroes discovering the acronym “ODS”. Ov
 * Travel time between missions.
 * Mission selection based on location of the cruiser in the galaxy.
 * Using range values as proxy for accuracy, increasing or lowering damage.
+* Facility adcency bonuses.

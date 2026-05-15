@@ -11,7 +11,7 @@ Missions
 
 * When interacting with a crate token, heroes do not draw an item card from the Supply Deck. When instructed to draw Medkits (when playing with IC2), do not draw a Medkit.  
 * After the mission, add 15 Credits to the Credit pool for each crate token retrieved during the mission.  
-* After the mission, do not clear damage off of heroes or flip them from the wounded to the healthy side.
+* After the mission, move damage from the hero sheet to their respective Deployment Card.
 
 Heroes
 
