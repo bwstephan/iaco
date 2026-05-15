@@ -16,7 +16,7 @@ Abilities:
 * +1 Damage  
 * Surge: +1 Damage
 
-![[A280 Carbine.png]]
+![A280 Carbine](./Custom%20Cards/A280%20Carbine.png)
 #### Glie-44
 Weapon - Ranged  
 Traits: Blaster - Pistol  
@@ -28,8 +28,7 @@ Abilities:
 * Surge: +2 Damage
 * Surge: +1 Accuracy
 
-![[Glie-44.png]]
-
+![Glie-44](./Custom%20Cards/Glie-44.png)
 #### Plasteel Staff
 Weapon - Melee  
 Traits: Staff  
@@ -40,7 +39,7 @@ Abilities:
 * Surge: Stun
 * Surge: +1 Damage
 
-![[Plasteel Staff.png]]
+![Plasteel Staff](./Custom%20Cards/Plasteel%20Staff.png)
 ### Tier 1
 
 #### ZX-9 Scatter Blaster
@@ -150,14 +149,14 @@ Abilities:
 * Special Action: Deplete the Medkit and choose yourself or an adjacent friendly figure to recover 5 Damage. After this action, place the card face down on the hero that recovered damage.
 * Exhaust to discard Bleeding.
 
-![[Medkit.png]]
+![Medkit](./Custom%20Cards/Medkit.png)
 #### Kinetic Detonator
 Accessory  
 Traits: Grenade  
 Abilities:
 * Special Action: Deplete this card and Throw 3. Every figure on or adjacent to the target space suffers 1 damage.
 
-![[Kinetic Detonator.png]]
+![Kinetic Detonator](./Custom%20Cards/Kinetic%20Detonator.png)
 ### Tier 1
 
 #### Flash Grenade

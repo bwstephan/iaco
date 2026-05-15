@@ -3,14 +3,15 @@
 Shuffle the Skirmish Deployment cards of all available heroes and draw 8 cards at random. These are the starting heroes. Place them aside into an area called "Troop pool". The player then chooses 3 of those heroes to field in the first mission of the campaign. Set the Hero Sheets of these heroes on the table.
 
 Choose each hero to be equipped with one of the following weapons:
-* [[New Items and Starting Weapons#Plasteel Staff|Plasteel Staff]]
-* [[New Items and Starting Weapons#A280 Carbine|A280 Carbine]]
-* [[New Items and Starting Weapons#Glie-44|Glie-44]]
-Additionally, choose each hero to carry one of the following Accessories:
-* [[New Items and Starting Weapons#Medkit|Medkit]]
-* [[New Items and Starting Weapons#Kinetic Detonator|Kinetic Detonator]]
+![A280 Carbine](./Custom%20Cards/A280%20Carbine.png)
+![Glie-44](./Custom%20Cards/Glie-44.png)
+![Plasteel Staff](./Custom%20Cards/Plasteel%20Staff.png)
 
-The starting Mission is “The Logbook”. Jump to the [[Story Missions#1 - The Logbook - Ryloth|appropriate section in the Story Mission changes list]], and set up the mission accordingly.
+Additionally, choose each hero to carry one of the following Accessories:
+![Medkit](./Custom%20Cards/Medkit.png)
+![Kinetic Detonator](./Custom%20Cards/Kinetic%20Detonator.png)
+
+The starting Mission is “The Logbook”. Jump to the [Story Mission document](./Story%20Missions.md) and set up the first mission accordingly.
 # Campaign Setup (after the initial mission)
 
 * Shuffle all available green and grey side missions into the Side Mission deck.

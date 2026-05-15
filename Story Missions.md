@@ -1,13 +1,14 @@
 # Title Crawl
 
-VICTORY! The Rebel Alliance destroyed the DEATH STAR. With the death of Moff Tarkin and Darth Vader disappeared, now is the time to grow the movement.
+https://starwarsintrocreator.com/?id=c5ed449a-a885-4f52-a67a-c4d54b9a41c8
 
-Many star systems want to join the fledgling Alliance. But they also need help to secure them from pirates and defend them from the Empire. 
+VICTORY! The Rebel Alliance destroyed the DEATH STAR. With the death of Moff Tarkin and Darth Vader disappearing, now is the time to grow the movement.
+
+Many star systems want to join the fledgling Alliance. But they also need help to secure them from pirates and defend them from the Empire.
 
 With the heroes of the Alliance occupied with more important matters, a group of soldiers is tasked to connect with the rebel movement on Ryloth. There, the group learns of worrying new imperial activity in the woods.
 
-![[Intro Crawl.jpg]]
-
+![Title Crawl](Intro%20Crawl.jpg)
 # Tier 1
 
 ## 1 - The Logbook - Ryloth
@@ -109,8 +110,6 @@ The Imperial player chooses 1 of the following:
 ## Intermission
 > "That was close! Let's see how we can get you back onto your feet." Patch yells out, taking over supporting Rell. Before getting out of sight towards the crew quarters she catches a glimpse of C-3PO. "Helllooo Shiny! I will be tending to you later. Don't start without me!"
 > Vos steps into view. "Great job as always. Not many squads could have gotten out of there! Decrypting the message will take Patch a bit, even with the help of the additional processing power." Shoving C-3PO gently towards Engineering, he turns to you. "Best you get some well deserved rest and then get some other missions in."
-
-* We still need some access codes from an ISB Officer.
 ## Intermission
 *After "Decrypt the Message" finishes.*
 >Coming out of the mess hall, you spot Patch lazily walking along the corridors. You decided to ask her how the progress is on the message retreived rom Ryloth. "Oh ... yeah. We got that a couple of days ago. To be honest it wasn't all that exciting. Seems like the Imp trash is working on an energy shield. At least we now know that "ODS" refers to "Operation Deep Shadow". Since shields are transparent, I am not really sure how they came up with that, but even the ISB runs low on creativity sometimes I guess. The message also has some star coordinates, but they don't really make sense as they point somewhere where no star system is on our maps." You ask her why Vos would not have told you about this when it happened. "Maybe he wanted to find out more about the coordinates before involving you? Better ask him yourself."
