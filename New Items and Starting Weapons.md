@@ -52,7 +52,8 @@ Dice: 1x Red
 Abilities:
 * +2 Accuracy
 * If target space is adjacent: +2 Damage
-* Surge: after your target suffers Damage, interrupt to move one space. Then the attack gains Blast 2.  
+* Surge: after your target suffers Damage, interrupt to move one space. Then the attack gains Blast 2.
+
 Cost: 140 Credits
 #### Krayt Fang V-3
 Melee  
@@ -61,7 +62,8 @@ Weight: 2
 Dice: 1x Red  
 Abilities:
 * +2 Damage
-* Surge: Cleave 2  
+* Surge: Cleave 2
+
 Cost: 250 Credits
 #### Corellian E-9X
 Ranged  
@@ -74,7 +76,8 @@ Abilities:
 * +3 Damage
 * Surge: + 2 Damage
 * Surge: + 2 Accuracy
-* If you have 3 or more Accuracy more than needed to reach the target space, this Attack gains Pierce 2.  
+* If you have 3 or more Accuracy more than needed to reach the target space, this Attack gains Pierce 2.
+
 Cost: 140 Credits
 #### M-5 Rotary Emitter
 Ranged  
@@ -86,7 +89,8 @@ Abilities:
 * +2 Accuracy
 * +1 Damage
 * Surge: +2 Damage
-* Surge: After the attack, gain 1 movement point.  
+* Surge: After the attack, gain 1 movement point.
+
 Cost: 250 Credits
 ## Attachments
 
@@ -96,24 +100,28 @@ Cost: 250 Credits
 Attach to a ranged weapon  
 Abilities:
 * When declaring an attack, spend one Movement Point to gain \+2 Accuracy on the next attack.
-* While attacking, spend 2 Accuracy to add +1 Damage. Limit once per attack.  
+* While attacking, spend 2 Accuracy to add +1 Damage. Limit once per attack.
+
 Cost: 110 Credits
 #### Double Blade
 Attach to a melee weapon  
 Abilities:
-* Cleave 2  
+* Cleave 2
+
 Cost: 150 Credits
 #### Under Barrel Launcher
 Attach to a ranged weapon  
 Abilities:
 * You can carry one additional attachment with the trait “Grenade”.  
 * Increase all “Throw” values by 3.
-* Accessories with the trait “Grenade” deal 1 additional Damage.  
+* Accessories with the trait “Grenade” deal 1 additional Damage.
+
 Cost: 150 Credits
 #### Energy Cell Expansion
 Attach to a ranged weapon  
 Abilities:
-* Add 2 to “Overheat” to attached ranged weapon.  
+* Add 2 to “Overheat” to attached ranged weapon.
+
 Cost: 70 Credits
 ## Armors
 
@@ -122,15 +130,15 @@ Cost: 70 Credits
 #### Combat Coat
 Abilities:
 * +2 Health
-* Exhaust during an attack targeting you to add 1 Evade to the defense results.  
-Cost: 120 Credits
+* Exhaust during an attack targeting you to add 1 Evade to the defense results.
 
+Cost: 120 Credits
 #### Dura Breastplate
 Abilities:
 * +3 Health
-* Exhaust during an attack targeting you to add 1 Block to the defense results.  
-Cost: 160 Credits
+* Exhaust during an attack targeting you to add 1 Block to the defense results.
 
+Cost: 160 Credits
 ## Accessories
 
 ### Starting
@@ -155,11 +163,12 @@ Abilities:
 #### Flash Grenade
 Trait: Grenade  
 Abilities:
-* Special Action: During your activation, deplete this card to Throw 2\. Every figure on or adjacent to the target space becomes Weakened.  
-Cost: 50 Credits
+* Special Action: During your activation, deplete this card to Throw 2\. Every figure on or adjacent to the target space becomes Weakened.
 
+Cost: 50 Credits
 #### Adrenal Stim
 Trait: Medical - Drug  
 Abilities:
-* Exhaust during your activation to suffer 1 Damage and gain 3 Movement Points.  
+* Exhaust during your activation to suffer 1 Damage and gain 3 Movement Points.
+
 Cost: 120 Credits
