@@ -2,7 +2,7 @@
 * ~~Create a GitHub repo~~
 * ~~Finalize Story Mission selection~~
 * ~~Modify rules of Story Missions~~
-* Rewrite story for Tier-1 Story Missions
+* ~~Rewrite story for Tier-1 Story Missions
 * ~~Finalize the Tech Tree for Tier-1~~
 * ~~Finalize Campaign Round~~
 * Check and finalize Engine Changes

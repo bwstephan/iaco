@@ -5,11 +5,13 @@ This document should give an overview of the mod and the high level concepts beh
 
 The mod assumes you have a solid grasp on the fundamentals of Imperial Assault. All basic rules of Imperial Assault are still in effect, unless detailed otherwise by the mod. The [Engine Changes](./Engine%20Changes.md) document aims to centralize all changes to the core mission gameplay.
 The mod should be played with the assistance of Imperial Commander 2 (IC2) and is intended to be a single-player experience. Rounds should be quicker and this will be accomplished to reduce the complexity of interactions of hero activations and through streamlining board state interactions.
-Subsequent modifications to unit templates in IC2 might appear to better fit the style of play.  
+
+Subsequent modifications to unit templates in IC2 might appear to better fit the style of play.
+
 If you want to jump in and are experienced with Imperial Assault, start here at the [setup for the first mission](./Campaign%20Progression%20and%20Strategy%20Layer.md).
 ## Strategy Layer (SL)
 
-The SL is a system that replaces the “Campaign Upgrade Stage” of the base game and the core part of the mod. Instead of buying gear revealed of a tier deck, The resources go into upgrading a run-down [Gozanti-class cruiser](https://starwars.fandom.com/wiki/Gozanti-class_cruiser), the RSV Lance, and an old [Sheathipede shuttle](https://starwars.fandom.com/wiki/Sheathipede-class_transport_shuttle). The cruiser can be fitted out with specialized facilities that improved the heroes and their effectiveness in battle. Ideas for facilities are:
+The SL is a system that replaces the “Campaign Upgrade Stage” of the base game and the core part of the mod. Instead of buying gear revealed of a tier deck, The resources go into upgrading a run-down [Gozanti-class cruiser](https://starwars.fandom.com/wiki/Gozanti-class_cruiser), the **RSV Lance**, and an old [Sheathipede shuttle](https://starwars.fandom.com/wiki/Sheathipede-class_transport_shuttle). The cruiser can be fitted out with specialized facilities that improved the heroes and their effectiveness in battle. Ideas for facilities are:
 
 * An Infirmary \- upgradable with a Bacta Tank \- to reduce wound healing times.  
 * A workshop to upgrade weapons and armor with attachments and potentially manufacture attachments  
@@ -33,12 +35,15 @@ In the first versions, this will be shown by running with default Imperial Assau
 ## Missions and Mission Types
 
 Story Missions and Side Missions will retain the same flavor.
+
 Story Missions will advance the narrative and be longer and harder than Side Missions, incentivizing the player to “prepare” for them.
+
 Side Missions reward may reward
 * Additional heroes (no Allies).
 * Credits
 * Specialized bonuses for Cruiser operations
 * Short term boosts for Cruiser operatons (generate Engineering/Workshop output)
+
 Side Missions will (later on) also spawn negative effects, similar the Threat Missions from the Return to Hoth expansion.
 
 In general, missions will not have timers anymore. Pressure will come from limited healing opportunities as well as many weapons having a reload/overheat mechanic.

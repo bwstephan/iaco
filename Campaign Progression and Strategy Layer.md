@@ -1,13 +1,16 @@
 # Setup for the first Mission
 
 Shuffle the Skirmish Deployment cards of all available heroes and draw 8 cards at random. These are the starting heroes. Place them aside into an area called "Troop pool". The player then chooses 3 of those heroes to field in the first mission of the campaign. Set the Hero Sheets of these heroes on the table.
+
 Choose each hero to be equipped with one of the following weapons:
 * [[New Items and Starting Weapons#Plasteel Staff|Plasteel Staff]]
 * [[New Items and Starting Weapons#A280 Carbine|A280 Carbine]]
 * [[New Items and Starting Weapons#Glie-44|Glie-44]]
+
 Additionally, choose each hero to carry one of the following Accessories:
 * [[New Items and Starting Weapons#Medkit|Medkit]]
 * [[New Items and Starting Weapons#Kinetic Detonator|Kinetic Detonator]]
+
 The starting Mission is “Aftermath” (Core Campaign p.4). Jump to the [[Story Missions#1 Aftermath (Core Campaign p.4)|appropriate section in the Story Mission changes list]], and set up the mission accordingly.
 # Campaign Setup (after the initial mission)
 
@@ -62,6 +65,7 @@ Additional, rewards are based on the color of the side Mission:
   * ODS 100: TBD
   * ODS 110: TBD
   * ODS 120: TBD
+
 Some effects can reduce the progress on the ODS Tracker. Points can not be reduced below a Tier border. For instance, once the tracker reaches 40 Points it can no longer be reduced below 40 points.
 
 # Facilities and space on the Cruiser
@@ -93,9 +97,12 @@ These facilities can be built into one of the free rooms on the RSV Lance. The L
 Cost
 * 350 Credits
 * 35 Engineering Progress
+
 Power draw: 0
+
 Abilities
 * Adds 5 to the maximum load of the RSV Lance Power Grid.
+
 Upgrades:
 * Increase the maxmium load by an additional 5. Cost: 150 Credits
 
@@ -103,9 +110,12 @@ Upgrades:
 Cost
 * 350 Credits
 * 35 Engineering Progress
+
 Power draw: 3
+
 Abilities
 * +2 Surges per dedicated troop member for research.
+
 Upgrades:
 * More work benches: Additional +2 Surges per dedicated troop member for research. Cost: 200 Credits
 
@@ -113,7 +123,9 @@ Upgrades:
 Cost:
 * 170 Credits
 * 15 Engineering Progress
+
 Power draw: 6
+
 Abilities
 * \+1 Surge per dedicated troop member for building facilities or droids (droids are mechanized troops that do not get wound penalties and will be introduced with the [[README#Reworked Characters and Abilities ~Q4/26 - Rebel Reinforcements|Rebel Reinforcements]] Update).  
 * Unlocks Heavy Weapons and Special Weapons research.  
@@ -123,7 +135,9 @@ Abilities
 Cost:
 * 250 Credits
 * 25 Engineering Progress
+
 Power draw: 5
+
 Abilities
 * Unlocks "Commander Training" Research to unlock Skills that cost 4XP.  
 * Train troop: Dedicate a hero (becomes unavailable for the following 2 missions) to gain 1XP. The hero cannot be dedicated to other tasks during that time.
@@ -143,6 +157,7 @@ Abilities
   * Woosh
     * +1 Evade when wearing the [[New Items and Starting Weapons#Combat Coat|Combat Coat]].
     * Cost: 50 Credits
+
 Upgrades:
 * Upgrade: +2 slots for training troops.
 
@@ -150,7 +165,9 @@ Upgrades:
 Cost:
 * 300 Credits
 * 25 Engineering Progress
+
 Power draw: 8
+
 Abilities
 * Infirmary bed: Dedicate troops (max. 2\) to double the amount healed. Dedicated heroes are unavailable for the next mission.  
 * Upgrade: Bacta Tank. Choose a hero. Reduce the amount of damage on that hero by 10\. Limit once per Campaign Round.  
@@ -161,7 +178,9 @@ Abilities
 Cost:
 * 80 Credits
 * 15 Engineering Progress
+
 Power draw: 8
+
 Abilities
 * After revealing Side Missions, draw 3 Side Missions. Replace one revealed Mission with one drawn mission. Shuffle the remaining missions back into the deck.  
 * Buy  
@@ -172,42 +191,55 @@ Abilities
 
 ### Heavy Weapons Tier-1
 Cost: 20 Research Progress
+
 Gives access to
 * ZX-9 Scatter Blaster
 * Krayt Fang V-3
+
 See [[New Items and Starting Weapons]].
 ### Special Weapons Tier-1
 Cost: 25 Research Progress
+
 Gives access to
 * Corellian E-9X
 * M-5 Rotary Emitter
+
 See [[New Items and Starting Weapons]].
 ### Armors Tier-1
 Cost: 15 Research Progress
+
 Gives access to
 * Combat Coat
 * Dura Breastplate
+
 See [[New Items and Starting Weapons]].
 ### Attachments Tier-1
 Cost: 10 Research Progress
+
 Gives access to
 * Optical Scope
 * Double Blade
 * Under Barrel Launcher
 * Energy Cell Expansion
+
 See [[New Items and Starting Weapons]].
 ### Accessories Tier-1
 Cost: 10 Research Progress
+
 Gives access to
 * Flash Grenade
 * Adrenal Stim
+
 See [[New Items and Starting Weapons]].
 ### Shuttle +1 Seat
 Cost: 30 Research Progress
+
 Allows for one additional hero to join on missions.
 ### Decrypt the Message
 Cost: 25 Research Progress
+
 Unlocks the Double Agent Story Mission.
 ### Commander Training
 Cost: 25 Research Progress
+
 Heroes can choose to spend XP to acquire 4 XP Class Cards.
