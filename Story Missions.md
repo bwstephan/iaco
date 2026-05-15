@@ -12,8 +12,8 @@ With the heroes of the Alliance occupied with more important matters, a group of
 
 ## 1 - The Logbook - Ryloth
 
-Threat Level 2
-![[01 - The Logbook.png]]
+Threat Level 2  
+![The Logbook](./Story%20Missions/01%20-%20The%20Logbook.png)
 ### Mission Briefing
 > The deep shadows cast by the trees do little to cool you in the humid climate of Ryloth's jungles. You approach the place your contact told you about and soon can hear sounds you recognize as Stormtrooper radio chatter.
 > Being careful with your approach, you manage to sneak close, overhearing an Imperial officer: "... and keep your grubby gloves off my terminals. This is important data and we can't afford to lose it!".
