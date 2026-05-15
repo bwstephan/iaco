@@ -7,7 +7,6 @@ The campaign starts with only basic ranged and melee weapons. Research and Side 
 ### Starting
 
 #### A280 Carbine
-
 Weapon \- Ranged  
 Traits: Blaster \- Rifle  
 Weight: 2  
@@ -20,83 +19,74 @@ Abilities:
 
 ![[A280 Carbine.png]]
 #### Glie-44
-
 Weapon \- Ranged  
 Traits: Blaster \- Pistol  
 Weight: 1  
 Overheat: 4  
 Dice: 1x Yellow  
 Abilities:
-* \+2 Accuracy  
-* Surge: \+2 Damage  
-* Surge: \+1 Accuracy
+* +2 Accuracy
+* Surge: +2 Damage
+* Surge: +1 Accuracy
 
 ![[Glie-44.png]]
 
 #### Plasteel Staff
-
-Weapon \- Melee  
-Traits: Staff  
-Weight: 1  
-Dice: 1x Green  
+Weapon - Melee
+Traits: Staff
+Weight: 1
+Dice: 1x Green
 Abilities:
-* \+2 Damage  
-* Surge: Stun  
-* Surge: \+1 Damage
+* +2 Damage
+* Surge: Stun
+* Surge: +1 Damage
 
-![[Glie-44.png]]
+![[Plasteel Staff.png]]
 ### Tier 1
 
-#### Scatter Blaster
-
-Ranged  
-Traits: Blaster \- Gun  
-Weight: 2  
-Overheat: 2  
-Dice: 1x Red  
+#### ZX-9 Scatter Blaster
+Ranged
+Traits: Blaster - Gun
+Weight: 2
+Overheat: 2
+Dice: 1x Red
 Abilities:
-* \+2 Accuracy  
-* If target space is adjacent: \+2 Damage  
-* Surge: after your target suffers Damage, interrupt to move one space. Then the attack gains Blast 2\.
+* +2 Accuracy
+* If target space is adjacent: +2 Damage
+* Surge: after your target suffers Damage, interrupt to move one space. Then the attack gains Blast 2.
 Cost: 140 Credits
-
-#### Long Blaster
-
-Ranged  
-Traits: Blaster \- Long Rifle  
-Weight: 3  
-Overheat: 2  
-Dice: 1x Blue  
+#### Krayt Fang V-3
+Melee
+Traits: Axe - Vibro
+Weight: 2
+Dice: 1x Red
 Abilities:
-* \+5 Accuracy  
-* \+3 Damage  
-* Surge: \+ 2 Damage  
-* Surge: \+ 2 Accuracy  
-* If you have 3 or more Accuracy more than needed to reach the target space, this Attack gains Pierce 2\.
-Cost: 140 Credits
-
-#### Vibro Axe
-
-Melee  
-Traits: Axe \- Vibro  
-Weight: 2  
-Dice: 1x Red  
-Abilities:
-* \+2 Damage  
+* +2 Damage
 * Surge: Cleave 2
 Cost: 250 Credits
-
-#### Heavy Blaster
-
-Ranged  
-Traits: Blaster \- Gun  
-Weight: 4  
-Overheat: 2  
-Dice: 1x Red, 1x Blue  
+#### Corellian E-9X
+Ranged
+Traits: Blaster - Long Rifle
+Weight: 3
+Overheat: 2
+Dice: 1x Blue
 Abilities:
-* \+2 Accuracy  
-* \+1 Damage  
-* Surge: \+2 Damage.  
+* +5 Accuracy
+* +3 Damage
+* Surge: + 2 Damage
+* Surge: + 2 Accuracy
+* If you have 3 or more Accuracy more than needed to reach the target space, this Attack gains Pierce 2.
+Cost: 140 Credits
+#### M-5 Rotary Emitter
+Ranged
+Traits: Blaster - Gun
+Weight: 4
+Overheat: 2
+Dice: 1x Red, 1x Green
+Abilities:
+* +2 Accuracy
+* +1 Damage
+* Surge: +2 Damage
 * Surge: After the attack, gain 1 movement point.
 Cost: 250 Credits
 
@@ -105,34 +95,27 @@ Cost: 250 Credits
 ### Tier 1
 
 #### Optical Scope
-
-Attach to a ranged weapon  
+Attach to a ranged weapon
 Abilities:
-* When declaring an attack, spend one Movement Point to gain \+2 Accuracy on the next attack.  
-* While attacking, spend 2 Accuracy to add 1 Damage.
-Cost: 150 Credits
-
+* When declaring an attack, spend one Movement Point to gain \+2 Accuracy on the next attack.
+* While attacking, spend 2 Accuracy to add +1 Damage. Limit once per attack.
+Cost: 110 Credits
 #### Double Blade
-
-Attach to a melee weapon  
+Attach to a melee weapon
 Abilities:
 * Cleave 2
-Cost: 200 Credits
-
+Cost: 150 Credits
 #### Under Barrel Launcher
-
 Attach to a ranged weapon  
 Abilities:
 * You can carry one additional attachment with the trait “Grenade”.  
-* Increase all “Throw” values by 3\.  
+* Increase all “Throw” values by 3.
 * Accessories with the trait “Grenade” deal 1 additional Damage.
-Cost: 200 Credits
-
-#### Energy Cell
-
-Attach to a ranged weapon  
+Cost: 150 Credits
+#### Energy Cell Expansion
+Attach to a ranged weapon
 Abilities:
-* Add 2 to “Overheat”
+* Add 2 to “Overheat” to attached ranged weapon.
 Cost: 70 Credits
 
 ## Armors
@@ -140,18 +123,22 @@ Cost: 70 Credits
 ### Tier 1
 
 #### Combat Coat
-
 Abilities:
-* \+ 3 Health  
-* Exhaust during an attack targeting you to add 1 Block or 1 Evade to the defense results.
-Cost: 280 Credits
+* + 2 Health
+* Exhaust during an attack targeting you to add 1 Evade to the defense results.
+Cost: 120 Credits
+
+#### Dura Breastplate
+Abilities:
+* + 3 Health
+* Exhaust during an attack targeting you to add 1 Block to the defense results.
+Cost: 160 Credits
 
 ## Accessories
 
 ### Starting
 
 #### Medkit
-
 Accessory  
 Traits: Medical  
 Abilities:
@@ -160,7 +147,6 @@ Abilities:
 
 ![[Medkit.png]]
 #### Kinetic Detonator
-
 Accessory  
 Traits: Grenade  
 Abilities:
@@ -170,14 +156,12 @@ Abilities:
 ### Tier 1
 
 #### Flash Grenade
-
 Trait: Grenade  
 Abilities:
 * Special Action: During your activation, deplete this card to Throw 2\. Every figure on or adjacent to the target space becomes Weakened.
 Cost: 50 Credits
 
 #### Adrenal Stim
-
 Trait: Medical \- Drug  
 Abilities:
 * Exhaust during your activation to suffer 1 Damage and gain 3 Movement Points.

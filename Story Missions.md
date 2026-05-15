@@ -68,7 +68,10 @@ With the heroes of the Alliance being occupied with more important tasks, a grou
 *When the commander is defeated.*
 > You dispatch his guard, but once you start training your blasters on the commander, reinforcems stream in and guide him to the safety of the side streets. With C-3PO found, you should make haste back to your shuttle.
 
-* Without changing heroes in your squad or equipment, immediately play the 3rd Story Mission “Impounded” as a Forced Mission. Each hero recovers 8 damage between missions. If heroes are wounded and have no damage to recover, flip their sheet, set damage equal to their health, and continue to recover. All equipment is flipped to the front side, readied, and set to the state of the start of a mission. The player may redistributed equipment between heroes.
+* Without changing heroes in your squad or equipment, immediately play the 3rd Story Mission “Impounded” as a Forced Mission.
+* Each hero recovers 6 damage between missions. If heroes are wounded and have no damage to recover, flip their sheet, set damage equal to their health, and continue to recover.
+* All equipment is flipped to the front side, readied, and set to the state of the start of a mission. The player may redistributed equipment between heroes.
+* The player may spend XP to add Class Cards to heroes like in the [[Campaign Progression and Strategy Layer|Campaign Round]] Step.
 ## Intermission
 >You arrive at the shuttle when it's still refueling. An administrator of the port comes over with 2 armed guards alleging smuggling activity they need to investigate. Sure that you have nothing to hide and up to date documentation you follow them in an attempt to keep a low profile.
 ## 3 Impounded (Core Set p.22) - Tattooine
