@@ -29,7 +29,7 @@ Heroes
 
 Items
 
-* Equipment now has weight. This impacts the mobility of heroes. Speed of a hero \= \<speed on the sheet/card\> \- weight. Before the [“Rebel Reinforcements”](https://docs.google.com/document/d/1cSuRAZwL0sjDW5Q6y5QEJzHMlDrahW6bpgCuNL8Ja4U/edit?tab=t.0#heading=h.patbkdlkv1hh) update, heroes gain a flat \+2 speed increase.  
+* Equipment now has weight. This impacts the mobility of heroes. Speed of a hero \= \<speed on the sheet/card\> - weight. Before the [“Rebel Reinforcements”](https://docs.google.com/document/d/1cSuRAZwL0sjDW5Q6y5QEJzHMlDrahW6bpgCuNL8Ja4U/edit?tab=t.0#heading=h.patbkdlkv1hh) update, heroes gain a flat \+2 speed increase unless otherwise specified here.
 * New key word “Throw X”. When throwing items, heroes choose a target space in Line of Sight, ignoring figures, within X spaces.
 
 Attacks
@@ -37,7 +37,7 @@ Attacks
 * Weapons now have an “Overheat X” stat. With each attack, the player places a Strain token onto the weapon. If the amount of Strain equals “Overheat X”, the weapon needs to be cooled down. For this, every hero gains the Special Action “Cooldown”: Remove all strain tokens of one of your weapons. [Special weapon attachments](https://docs.google.com/document/d/1lw5UhnfTNR1U5amJ_FBn5ggsN_IojScuEZ6_4Bq3nfY/edit?tab=t.0#heading=h.rzpotyytdfz9) might also be able to cool down weapons without using an action, or increase their “Overheat”.
 * New Line of Sight (LoS) system. The player draws lines to all 4 corners of a target space. As long as 2 lines are unobstructed by figures/terrain, the space can be targeted. Depending on how many lines are obstructed, the attack suffers a range penalty.
   * 1 line obstructed: -2 Accuracy
-  * 2 lines obstructed: -6 Accuracy
+  * 2 lines obstructed: -5 Accuracy
 * The new LoS system also applies to enemy attacks. This makes it feasible to “hide” heroes behind obstructions.
 * (Some large enemies now have facing. They have improved defense stronger attacks in direction of facing) - This will come into effect with the [Unveiling](https://docs.google.com/document/d/1cSuRAZwL0sjDW5Q6y5QEJzHMlDrahW6bpgCuNL8Ja4U/edit?tab=t.0#heading=h.466i1qkq1bkr) update.
 * Cleave only works on adjacent targets, even if the weapon has Reach.
