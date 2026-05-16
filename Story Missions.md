@@ -67,7 +67,7 @@ Threat Level 1
 >  "Get these criminals!" the officer shouts. It seems you got your work cut out for you on this one.
 
 * At the start of the mission, C-3PO (Human-Cyborg Relations) is deactivated. While C-3PO is deactivated, he is a neutral figure but does not block line of sight.
-* A Rebel hero can interacti with C-3PO to make him operational. While C-3PO is operational, he is a Rebel figure and heroes control him as an ally. If C-3PO is defeated. his figure remains on the map. He discards all conditions and damage tokens and becomes deactivated.
+* A Rebel hero can interact with C-3PO to make him operational. While C-3PO is operational, he is a Rebel figure and heroes control him as an ally. If C-3PO is defeated. his figure remains on the map. He discards all conditions and damage tokens and becomes deactivated.
 * An Imperial Figure can interact with a terminal to increase Threat by 1. Limit once per Terminal per round.
 * Doors are locked. A Rebel figure can attack dors and terminals (Health: 5, Defense 1 block). C-3PO can interacti with a door or terminal to open that door or discard that terminal.
 * The mission is will progress when a door opens.
@@ -101,30 +101,52 @@ Threat Level 1
 * All equipment is flipped to the front side, readied, and set to the state of the start of a mission. The player may redistribute equipment between heroes.
 * Without changing heroes in your squad or equipment, immediately play the 3rd Story Mission “Stuck” as a Forced Mission.
 
-## Intermission
->You arrive at the shuttle when it's still refueling. An administrator of the port comes over with 2 armed guards alleging smuggling activity they need to interview you about. Patch made sure your documentation is up to date so you follow them in an attempt to keep a low profile.
-
 ## 3 Stuck - Tattooine
 
-[PDF Link to the original Impounded mission.](https://drive.google.com/file/d/1F9-UvEYsMPj6PWKaOe24Hb_23Ismnf_j/view?usp=drive_link)
+Threat Level 1
+
+!["Stuck"](./Story%20Missions/03%20-%20Stuck.png)
+### Card Text
+> You arrive at the shuttle when it's still refueling. An administrator of the port comes over with 2 armed guards alleging smuggling activity they need to interview you about. Patch made sure your documentation is up to date so you follow them in an attempt to keep a low profile.
+
 ### Mission Briefing
 >A couple of hours later, you are still unattended. The waiting room you are in does not have any guards, so you decide to just sneak out and make a run for it.
 >You get to the space dock via the oberservational area overlooking the bay your shuttle is moored in. Immediately, you notice clamps grasping the struts of your shuttle and you can't make out your pilot Rell anywhere around the craft. Moments later you hear his cries out of an animal pen your saw earlier.
 >You might have to let yourself out of this kriffing scughole after all.
-### Gameplay Changes
-* Threat Level is 1.
-* After setup, remove all crate tokens from the map.
-* After setup, remove the elite Nexu and the northern most Royal Guard from the map. Return the deployment card of the elite Nexu back to the open hand.
+
 * Heroes control C-3PO as ally at no threat cost.
-* C-3PO can interact with the docking clamp controls. He does not spend an action and automatically succeeds.
-* The mission no longer ends at the end of Round 5 or when all heroes are wounded.
-* All heroes withdrawn: Campaign defeat
-* To gain access to the next Story Mission, the player needs to research the “Decrypt the Message” research project.
+* If C-3PO is defeated. his figure remains on the map. He discards all conditions and damage tokens and becomes deactivated. A Rebel hero can interact with C-3PO to make him operational. While C-3PO is operational, he is a Rebel figure and heroes control him as an ally.
+* The terminal represents docking clamp controls. A hero and C-3PO can interact with the docking clamp controls (1 Tech) to deactivate them and discard the token.
+* C-3PO does not spend an action to interact with the docking clamp controls or open doors.
+* The Rebel mission token is Rell. A hero can retrieve Rell. Apply -1 Speed and -1 block to the hero carrying Rell.
+* The mission will progress when the docking clamp controls have been deactivated and Rell has been retrieved.
+* When all heroes withdraw, the campaign is lost. You may retry the mission.
+
 ### Royal Guards?
-*When the door to the terminal is first opened.*
+*When a door to the terminal is first opened.*
 >Next to the terminal controlling the docking clamps you can see the long red robes of a member of the Imperial Royal Guard. The opening door gives away your presence and the guard rushes to greet you with his staff.
+
+* Deploy the reserved Royal Guard group and the elite Imperial Officer to the red Deployment Point.
+* Open the other door to the terminal.
+
+### The Hounds
+*When a door to the Animal Pen opens*
+> Opening the door to the animal pen, you see a Nexu eagerly pacing. In the corner, Rell cries out "Not a moment too soon, eh?".
+
+* Deploy the reserved Nexu to the yellow Deployment Point.
+
+### Flight to the Shuttle
+*When a hero retreives the pilot*
+>"You know this wasn't the only one, right?" Rell caughs up blood between sentences. "The other one must have escaped." Just as he finishes his sentence, you hear a familiar cry not too far away.  
+>"With the docking clamps released, all we need to do is get to the shuttle. He winces, holding his side. "Oh ... they are going to pay for this ..." he hisses through clenched teeth.
+
+* Deploy the reserved elite Nexu to any green deployment point.
+* Increase Threat by 4 and resolve an optional deployment.
+* Place the green neutral mission token on the blue point. This represents the hatch.
+* A hero carrying Rell can interacti with the hatch, for the pilot to board the shuttle, winning the mission.
+
 ### End of Mission
-*When the heroes depart with the pilot Rell Orvane.*
+*When the heroes depart with Rell.*
 > Helping Rell into the seat, it doesn't take long for him to make the shuttle ready. You lift off, just in time before reinforcements arrive. Your pilot took his treatment a bit too personally though, making a last pass over the bay, raining down blaster fire on the newly arrived imperial troopers.
 
 ### Rewards:

@@ -1,0 +1,221 @@
+{
+  "Map": {
+    "Name": null,
+    "MissionType": "Campaign",
+    "Tiles": [
+      {
+        "AssetId": "SWI01-14B",
+        "Position": "4, -3",
+        "Rotation": "Rotate270"
+      },
+      {
+        "AssetId": "SWI01-38A",
+        "Position": "4, -1",
+        "Rotation": "Rotate90"
+      },
+      {
+        "AssetId": "SWI01-38A",
+        "Position": "4, 3",
+        "Rotation": "Rotate270"
+      },
+      {
+        "AssetId": "SWI01-31A",
+        "Position": "4, 1",
+        "Rotation": "Rotate90"
+      },
+      {
+        "AssetId": "SWI01-25A",
+        "Position": "7, 1",
+        "Rotation": "Rotate270"
+      },
+      {
+        "AssetId": "SWI01-35A",
+        "Position": "6, 3",
+        "Rotation": "Rotate90"
+      },
+      {
+        "AssetId": "SWI01-28A",
+        "Position": "7, 5",
+        "Rotation": "RotateNone"
+      },
+      {
+        "AssetId": "SWI01-36A",
+        "Position": "9, 5",
+        "Rotation": "Rotate270"
+      },
+      {
+        "AssetId": "SWI32-07A",
+        "Position": "7, -4",
+        "Rotation": "Rotate90"
+      },
+      {
+        "AssetId": "SWI32-02A",
+        "Position": "9, -9",
+        "Rotation": "RotateNone"
+      },
+      {
+        "AssetId": "SWI01-23A",
+        "Position": "14, -10",
+        "Rotation": "Rotate270"
+      },
+      {
+        "AssetId": "SWI01-36A",
+        "Position": "6, -10",
+        "Rotation": "Rotate90"
+      },
+      {
+        "AssetId": "SWI01-27A",
+        "Position": "14, -5",
+        "Rotation": "RotateNone"
+      },
+      {
+        "AssetId": "SWI01-34A",
+        "Position": "14, -7",
+        "Rotation": "Rotate90"
+      },
+      {
+        "AssetId": "SWI01-35A",
+        "Position": "10, -5",
+        "Rotation": "RotateNone"
+      },
+      {
+        "AssetId": "SWI01-36A",
+        "Position": "17, -6",
+        "Rotation": "Rotate270"
+      },
+      {
+        "AssetId": "SWI01-35A",
+        "Position": "11, -10",
+        "Rotation": "RotateNone"
+      },
+      {
+        "AssetId": "SWI01-36A",
+        "Position": "8, -13",
+        "Rotation": "Rotate180"
+      },
+      {
+        "AssetId": "SWI01-01B",
+        "Position": "-1, 1",
+        "Rotation": "Rotate90"
+      },
+      {
+        "AssetId": "SWI01-18B",
+        "Position": "-5, 1",
+        "Rotation": "Rotate90"
+      },
+      {
+        "AssetId": "SWI01-02B",
+        "Position": "-1, -4",
+        "Rotation": "Rotate90"
+      },
+      {
+        "AssetId": "SWI01-05B",
+        "Position": "4, 6",
+        "Rotation": "Rotate270"
+      },
+      {
+        "AssetId": "SWI32-06B",
+        "Position": "0, 7",
+        "Rotation": "RotateNone"
+      },
+      {
+        "AssetId": "SWI01-10B",
+        "Position": "-4, 8",
+        "Rotation": "Rotate90"
+      },
+      {
+        "AssetId": "SWI01-14B",
+        "Position": "-4, 6",
+        "Rotation": "Rotate180"
+      },
+      {
+        "AssetId": "SWI01-17B",
+        "Position": "2, -3",
+        "Rotation": "RotateNone"
+      },
+      {
+        "AssetId": "SWI01-17B",
+        "Position": "-2, 4",
+        "Rotation": "Rotate90"
+      },
+      {
+        "AssetId": "SWI01-17B",
+        "Position": "-3, 6",
+        "Rotation": "RotateNone"
+      }
+    ],
+    "Zones": [],
+    "Doors": [
+      {
+        "Position": "9, -6",
+        "Rotation": "Rotate90"
+      },
+      {
+        "Position": "14, -6",
+        "Rotation": "Rotate90"
+      },
+      {
+        "Position": "2, 6",
+        "Rotation": "RotateNone"
+      },
+      {
+        "Position": "4, 3",
+        "Rotation": "Rotate90"
+      }
+    ],
+    "Tokens": [
+      {
+        "TokenType": "Entrance",
+        "Position": "9, 6"
+      },
+      {
+        "TokenType": "Terminal",
+        "Position": "12, -12"
+      },
+      {
+        "TokenType": "ImperialDeploymentPointGreen",
+        "Position": "6, -10"
+      },
+      {
+        "TokenType": "ImperialDeploymentPointGreen",
+        "Position": "17, -6"
+      },
+      {
+        "TokenType": "ImperialDeploymentPointRed",
+        "Position": "11, -11"
+      },
+      {
+        "TokenType": "ImperialDeploymentPointBlue",
+        "Position": "1, 0"
+      },
+      {
+        "TokenType": "ImperialDeploymentPointYellow",
+        "Position": "3, 5"
+      },
+      {
+        "TokenType": "GreenRebelMission",
+        "Position": "3, 7"
+      },
+      {
+        "TokenType": "ImperialDeploymentPointGreen",
+        "Position": "1, -5"
+      },
+      {
+        "TokenType": "ImperialDeploymentPointGreen",
+        "Position": "-3, 7"
+      }
+    ],
+    "FigureTokens": [
+      {
+        "CardIdentifier": {
+          "Name": "C-3PO",
+          "SubName": "Human-Cyborg Relations"
+        },
+        "Color": "Red",
+        "Position": "9, 5",
+        "Rotation": "RotateNone"
+      }
+    ]
+  },
+  "MissionBriefingPages": []
+}
