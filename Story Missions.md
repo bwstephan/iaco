@@ -24,64 +24,87 @@ Threat Level 2
 * Doors are locked to Imperial figures.
 * The mission is won, when the outpost logbook has been downloaded and all terminals are destroyed.
 * When all heroes withdraw, the campaign is lost. You may retry the mission.
+
 ### Fortified
 *The first time the door opens.*
 > "They're here!" the Imperial forces shout, as they scramble their defenses. "Keep them away from the terminals!"
 > There's a crackle from your comlink. "Imperial forces on approach!" your contact tells you. "Just get whatever you can and get out! Transport is waiting for you."  
 * Deploy the reseved E-Web Engineer to any yellow point.
 * Deploy the reserved Stormtrooper group and Imperial Officer to the red deployment point.
+
 ### Lockdown
 *At the end of the Round in which one of the doors open for the first time.*  
 The Imperial player chooses 1 of the following:
 * Each terminal has 7 Health instead of 4.
 * The doors close and are locked. A Rebel figure can attack a door (Health: 7, Defense: 1 block). The red deployment point is now active.
+
 ### End of Mission
 *When the logbook is downloaded and all terminals are destroyed.*
 > Data in hand, you use a gap in the reinforcements to sprint to the shuttle. "Nice job!" your pilot Rell Orvane grins back at you while you strap in for a rapid ascent.
+
 ### Rewards
 * The group receives 200 credits in total and each hero receives 1 XP.
 * There is no active Story Mission.
+
 ### Epilog
 > Back on board the RSV Lance, you take the rest of the day off. At dinner in the mess hall, a tall Twi'lek women approaches you, swinging a data pad angrily in your face. "If I knew you would only bring useless stuff, I would have told Vos to send a better squad!". An older human man in a commander jacket you know as Halren Vos catches up with her. "They couldn't know, Patch!". "Fine! I told you, the only thing I could find is this ODS stuff. No chance of getting into the actual codes without help." the women explains.
 > Looking at you again, visually calmer now, she says "I am sorry for being brash. I am Tiala Syn, but most here call me Patch. Your contact on Ryloth is actually a friend of mine. Down there they know something is up, but we are still in the dark." Patch fills you in on her attempts to decrypt the data you retreived. She keeps repeating the letters "ODS" without telling you what it is. You wait for a pause to ask her. "I don't know. Some stupid Imperial acronym I guess. If only I had better hardware ...."
 > Vos, always looking for the up suggests "I am sure we can get help from the Alliance, once we can contact them again. You could help us get our Comms Station in working order again. While this is underway, I am sure our friends on Ryloth have something with a bit more action in store for our troops as well."
+
 ## Intermission
 *When the Comms Station is constructed.*
 > Only a couple of hours after the Comms Station is functional again, Vos swings by your quarters and gives you the news. "The Alliance can't give us hardware just yet, but I have something else for you. Captain Solo recently put out an open bulleting across the rebel network for someone to retreive the droid C-3PO. He sent him to Tattooine to contact one of his old friends there. The droid hasn't reported back for a few days now, so someone needs to head there to look for it. For some reason Captain Solo can't go there himself, so he put up the request on Alliance Net. I was thinking you folks might go there and grab Mr. Golden Rod. We can surely use his processing to help us decrypt the data before we return him to Captain Solo."  
 * Add "Past Life Enemies" as an active Story Mission.
-## 2 Past Life Enemies (Twin Shadows p.10) - Tattooine
+## 2 Golden Opportunity - Tattooine
 
-[PDF Link to the original Past Life Enemies mission.](https://drive.google.com/file/d/1FbVh3EZWInEMSoiBn48yxKtBmdORpe3Z/view?usp=drive_link)
+Threat Level 1
+!["Golden Opportunity"](./Story%20Missions/02%20-%20Golden%20Opportunity.png)
 ### Card Text
 >Arriving on Tattooine, you make your way to the shady parts of Mos Espa, where C-3PO was last seen. Talking to the locals for a while, they mention that Stormtroopers increased their presence, even down to the more unsavory parts of the port city.
+
 ### Mission Briefing
 >  Eventually you find the droid lying deactivated in a corner, a Stormtrooper with a heavy rifle hulking over him. You just have time to hear the familiar beep-boop of a Probe Droid around the corner before an officer notices your presence.
 >  "Get these criminals!" the officer shouts. It seems you got your work cut out for you on this one.
-### Gameplay Changes
-* Threat Level is 1.
-* After setup, remove all crate tokens from the map.
-* After setup, remove the Heavy Stormtrooper figure that is farthest to the entry token from the map.
-* The mission no longer ends at the end of Round 7 or when all heroes are wounded.
-* All heroes withdrawn: Campaign defeat
+
+* At the start of the mission, C-3PO (Human-Cyborg Relations) is deactivated. While C-3PO is deactivated, he is a neutral figure but does not block line of sight.
+* A Rebel hero can interacti with C-3PO to make him operational. While C-3PO is operational, he is a Rebel figure and heroes control him as an ally. If C-3PO is defeated. his figure remains on the map. He discards all conditions and damage tokens and becomes deactivated.
+* An Imperial Figure can interact with a terminal to increase Threat by 1. Limit once per Terminal per round.
+* Doors are locked. A Rebel figure can attack dors and terminals (Health: 5, Defense 1 block). C-3PO can interacti with a door or terminal to open that door or discard that terminal.
+* The mission is will progress when a door opens.
+* When all heroes withdraw, the campaign is lost. You may retry the mission.
+
 ### Primary Function
 *The first time a rebel interacts with C-3PO.*
 > "Oh my! What's happened?" The protocol droid staggers, but quickly regains his full functions. He gestures towards the door. "They are behind there. It's best to secure out retreat, or else we will be shot in the back!"
+
+### Raider Ambush
+*At the end of Round 3*  
+* Deploy the reserved Tusken Raider group to the blue point
+
 ### The Commander
 *The first time a door opens.*
 > "You! I have seen holos of you. What are you doing here? No matter! Get em boys!" The commander orders his best troops to attack.
 
-* Add +1 Health and +2 Accuracy to the figures of the Stormtrooper group deployed by this event.
+* Open all doors.
+* Deploy the reserved **Kayn Somos** and Stormtrooper group to the red point.
+* Apply +2 Health to **Kayn Somos**.
+* Apply+1 Health and +2 Accuracy to the figures of the Stormtrooper group deployed by this event. This group can not be reinforced.
+* The mission is won, when **Kayn Somos** is defeated.
 ### End of Mission
-*When the commander is defeated.*
+*When **Kayn Somos** is defeated.*
 > You dispatch his guard, but once you start training your blasters on the commander, reinforcements stream in and guide him to the safety of the side streets. With C-3PO found, you should make haste back to your shuttle.
 
-* Without changing heroes in your squad or equipment, immediately play the 3rd Story Mission “Impounded” as a Forced Mission.
+### Rewards
+* The group receives 200 credits in total and each hero receives 2 XP.
+* The player may spend XP to add Class Cards to heroes like in the [[Campaign Progression and Strategy Layer|Campaign Round]] Step.
 * Each hero recovers 6 damage between missions. If heroes are wounded and have no damage to recover before 6 damage are recovered, flip their sheet, set damage equal to their health, and continue to recover damage until you are at 8.
 * All equipment is flipped to the front side, readied, and set to the state of the start of a mission. The player may redistribute equipment between heroes.
-* The player may spend XP to add Class Cards to heroes like in the [[Campaign Progression and Strategy Layer|Campaign Round]] Step.
+* Without changing heroes in your squad or equipment, immediately play the 3rd Story Mission “Stuck” as a Forced Mission.
+
 ## Intermission
 >You arrive at the shuttle when it's still refueling. An administrator of the port comes over with 2 armed guards alleging smuggling activity they need to interview you about. Patch made sure your documentation is up to date so you follow them in an attempt to keep a low profile.
-## 3 Impounded (Core Set p.22) - Tattooine
+
+## 3 Stuck - Tattooine
 
 [PDF Link to the original Impounded mission.](https://drive.google.com/file/d/1F9-UvEYsMPj6PWKaOe24Hb_23Ismnf_j/view?usp=drive_link)
 ### Mission Briefing
@@ -104,9 +127,9 @@ The Imperial player chooses 1 of the following:
 *When the heroes depart with the pilot Rell Orvane.*
 > Helping Rell into the seat, it doesn't take long for him to make the shuttle ready. You lift off, just in time before reinforcements arrive. Your pilot took his treatment a bit too personally though, making a last pass over the bay, raining down blaster fire on the newly arrived imperial troopers.
 
-* Rewards:
-	* 400 credits total and 3 XP for participating heroes.
-	* Unlock the “Decrypt the Message” research project.
+### Rewards:
+* 200 credits total and 1 XP for participating heroes.
+* Unlock the “Decrypt the Message” research project.
 ## Intermission
 > "That was close! Let's see how we can get you back onto your feet." Patch yells out, taking over supporting Rell. Before getting out of sight towards the crew quarters she catches a glimpse of C-3PO. "Helllooo Shiny! I will be tending to you later. Don't start without me!"
 > Vos steps into view. "Great job as always. Not many squads could have gotten out of there! Decrypting the message will take Patch a bit, even with the help of the additional processing power." Shoving C-3PO gently towards Engineering, he turns to you. "Best you get some well deserved rest and then get some other missions in."

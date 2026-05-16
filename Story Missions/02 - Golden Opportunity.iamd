@@ -1,0 +1,206 @@
+{
+  "Map": {
+    "Name": null,
+    "MissionType": "Campaign",
+    "Tiles": [
+      {
+        "AssetId": "SWI01-32B",
+        "Position": "1, 9",
+        "Rotation": "Rotate90"
+      },
+      {
+        "AssetId": "SWI01-36B",
+        "Position": "0, 7",
+        "Rotation": "Rotate180"
+      },
+      {
+        "AssetId": "SWI01-28B",
+        "Position": "3, 8",
+        "Rotation": "RotateNone"
+      },
+      {
+        "AssetId": "SWI01-23B",
+        "Position": "4, 5",
+        "Rotation": "Rotate90"
+      },
+      {
+        "AssetId": "SWI10-07B",
+        "Position": "7, 5",
+        "Rotation": "Rotate180"
+      },
+      {
+        "AssetId": "SWI01-22B",
+        "Position": "11, 6",
+        "Rotation": "Rotate180"
+      },
+      {
+        "AssetId": "SWI01-38A",
+        "Position": "14, 6",
+        "Rotation": "RotateNone"
+      },
+      {
+        "AssetId": "SWI01-17B",
+        "Position": "7, 8",
+        "Rotation": "Rotate270"
+      },
+      {
+        "AssetId": "SWI01-37B",
+        "Position": "15, 12",
+        "Rotation": "RotateNone"
+      },
+      {
+        "AssetId": "SWI32-06B",
+        "Position": "12, 13",
+        "Rotation": "RotateNone"
+      },
+      {
+        "AssetId": "SWI01-05B",
+        "Position": "8, 15",
+        "Rotation": "RotateNone"
+      },
+      {
+        "AssetId": "SWI32-08B",
+        "Position": "8, 11",
+        "Rotation": "Rotate180"
+      },
+      {
+        "AssetId": "SWI01-18B",
+        "Position": "10, 10",
+        "Rotation": "Rotate180"
+      },
+      {
+        "AssetId": "SWI01-18B",
+        "Position": "5, 10",
+        "Rotation": "Rotate90"
+      },
+      {
+        "AssetId": "SWI32-10A",
+        "Position": "17, 11",
+        "Rotation": "RotateNone"
+      },
+      {
+        "AssetId": "SWI10-03A",
+        "Position": "16, 5",
+        "Rotation": "RotateNone"
+      },
+      {
+        "AssetId": "SWI01-25A",
+        "Position": "20, 5",
+        "Rotation": "Rotate180"
+      },
+      {
+        "AssetId": "SWI10-06A",
+        "Position": "23, 6",
+        "Rotation": "Rotate270"
+      },
+      {
+        "AssetId": "SWI01-31A",
+        "Position": "20, 8",
+        "Rotation": "Rotate90"
+      },
+      {
+        "AssetId": "SWI01-35A",
+        "Position": "21, 8",
+        "Rotation": "RotateNone"
+      },
+      {
+        "AssetId": "SWI01-32A",
+        "Position": "20, 10",
+        "Rotation": "Rotate270"
+      }
+    ],
+    "Zones": [],
+    "Doors": [
+      {
+        "Position": "14, 6",
+        "Rotation": "Rotate180"
+      },
+      {
+        "Position": "15, 12",
+        "Rotation": "Rotate180"
+      }
+    ],
+    "Tokens": [
+      {
+        "TokenType": "Terminal",
+        "Position": "12, 7"
+      },
+      {
+        "TokenType": "Terminal",
+        "Position": "2, 6"
+      },
+      {
+        "TokenType": "ImperialDeploymentPointGreen",
+        "Position": "7, 4"
+      },
+      {
+        "TokenType": "Entrance",
+        "Position": "0, 7"
+      },
+      {
+        "TokenType": "Terminal",
+        "Position": "17, 12"
+      },
+      {
+        "TokenType": "ImperialDeploymentPointRed",
+        "Position": "21, 7"
+      },
+      {
+        "TokenType": "ImperialDeploymentPointBlue",
+        "Position": "10, 10"
+      },
+      {
+        "TokenType": "ImperialDeploymentPointGreen",
+        "Position": "10, 13"
+      }
+    ],
+    "FigureTokens": [
+      {
+        "CardIdentifier": {
+          "Name": "Heavy Stormtrooper",
+          "IsElite": false
+        },
+        "Color": "Gray",
+        "Position": "4, 4",
+        "Rotation": "RotateNone"
+      },
+      {
+        "CardIdentifier": {
+          "Name": "C-3PO",
+          "SubName": "Human-Cyborg Relations"
+        },
+        "Color": "Red",
+        "Position": "5, 3",
+        "Rotation": "RotateNone"
+      },
+      {
+        "CardIdentifier": {
+          "Name": "Probe Droid",
+          "IsElite": false
+        },
+        "Color": "Gray",
+        "Position": "5, 9",
+        "Rotation": "RotateNone"
+      },
+      {
+        "CardIdentifier": {
+          "Name": "E-Web Engineer",
+          "IsElite": false
+        },
+        "Color": "Black",
+        "Position": "12, 5",
+        "Rotation": "RotateNone"
+      },
+      {
+        "CardIdentifier": {
+          "Name": "Imperial Officer",
+          "IsElite": false
+        },
+        "Color": "Gray",
+        "Position": "11, 6",
+        "Rotation": "RotateNone"
+      }
+    ]
+  },
+  "MissionBriefingPages": []
+}
