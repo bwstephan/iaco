@@ -1,0 +1,198 @@
+{
+  "Map": {
+    "Name": null,
+    "MissionType": "Campaign",
+    "Tiles": [
+      {
+        "AssetId": "SWI46-01B",
+        "Position": "-4, -5",
+        "Rotation": "Rotate180"
+      },
+      {
+        "AssetId": "SWI46-07B",
+        "Position": "-4, -10",
+        "Rotation": "Rotate90"
+      },
+      {
+        "AssetId": "SWI46-17B",
+        "Position": "-4, -8",
+        "Rotation": "Rotate90"
+      },
+      {
+        "AssetId": "SWI46-06B",
+        "Position": "-7, -10",
+        "Rotation": "RotateNone"
+      },
+      {
+        "AssetId": "SWI46-11B",
+        "Position": "-7, -7",
+        "Rotation": "RotateNone"
+      },
+      {
+        "AssetId": "SWI46-18B",
+        "Position": "-10, -7",
+        "Rotation": "Rotate90"
+      },
+      {
+        "AssetId": "SWI46-12B",
+        "Position": "-3, -1",
+        "Rotation": "Rotate90"
+      },
+      {
+        "AssetId": "SWI46-11B",
+        "Position": "-3, 1",
+        "Rotation": "RotateNone"
+      },
+      {
+        "AssetId": "SWI46-08B",
+        "Position": "-6, 0",
+        "Rotation": "Rotate90"
+      },
+      {
+        "AssetId": "SWI46-18B",
+        "Position": "-5, 2",
+        "Rotation": "RotateNone"
+      },
+      {
+        "AssetId": "SWI46-18B",
+        "Position": "-6, -2",
+        "Rotation": "Rotate180"
+      },
+      {
+        "AssetId": "SWI46-18B",
+        "Position": "1, -4",
+        "Rotation": "Rotate270"
+      },
+      {
+        "AssetId": "SWI46-18B",
+        "Position": "-4, -13",
+        "Rotation": "Rotate180"
+      },
+      {
+        "AssetId": "SWI46-18B",
+        "Position": "-9, -13",
+        "Rotation": "Rotate180"
+      },
+      {
+        "AssetId": "SWI46-10B",
+        "Position": "-8, -3",
+        "Rotation": "Rotate180"
+      },
+      {
+        "AssetId": "SWI46-10B",
+        "Position": "-8, 1",
+        "Rotation": "Rotate90"
+      },
+      {
+        "AssetId": "SWI46-18B",
+        "Position": "-8, 2",
+        "Rotation": "RotateNone"
+      },
+      {
+        "AssetId": "SWI46-12B",
+        "Position": "-8, -1",
+        "Rotation": "Rotate90"
+      },
+      {
+        "AssetId": "SWI46-17B",
+        "Position": "-9, -7",
+        "Rotation": "RotateNone"
+      },
+      {
+        "AssetId": "SWI46-18B",
+        "Position": "-10, -3",
+        "Rotation": "Rotate90"
+      },
+      {
+        "AssetId": "SWI01-33A",
+        "Position": "-8, -5",
+        "Rotation": "Rotate270"
+      },
+      {
+        "AssetId": "SWI01-35A",
+        "Position": "-10, -5",
+        "Rotation": "RotateNone"
+      },
+      {
+        "AssetId": "SWI01-27A",
+        "Position": "-11, -5",
+        "Rotation": "Rotate90"
+      },
+      {
+        "AssetId": "SWI01-25A",
+        "Position": "-11, 0",
+        "Rotation": "Rotate270"
+      },
+      {
+        "AssetId": "SWI01-23A",
+        "Position": "-11, -10",
+        "Rotation": "Rotate270"
+      },
+      {
+        "AssetId": "SWI46-04A",
+        "Position": "-15, -6",
+        "Rotation": "Rotate270"
+      },
+      {
+        "AssetId": "SWI46-16A",
+        "Position": "-15, -8",
+        "Rotation": "Rotate90"
+      },
+      {
+        "AssetId": "SWI46-16A",
+        "Position": "-14, -3",
+        "Rotation": "Rotate270"
+      },
+      {
+        "AssetId": "SWI01-32A",
+        "Position": "-14, -10",
+        "Rotation": "Rotate90"
+      },
+      {
+        "AssetId": "SWI01-35A",
+        "Position": "-15, -9",
+        "Rotation": "Rotate90"
+      },
+      {
+        "AssetId": "SWI01-32A",
+        "Position": "-14, 0",
+        "Rotation": "RotateNone"
+      },
+      {
+        "AssetId": "SWI01-35A",
+        "Position": "-15, -2",
+        "Rotation": "Rotate90"
+      },
+      {
+        "AssetId": "SWI46-03A",
+        "Position": "-19, -4",
+        "Rotation": "Rotate270"
+      },
+      {
+        "AssetId": "SWI46-18A",
+        "Position": "-20, -8",
+        "Rotation": "Rotate180"
+      },
+      {
+        "AssetId": "SWI46-18A",
+        "Position": "-22, -4",
+        "Rotation": "Rotate90"
+      },
+      {
+        "AssetId": "SWI46-18A",
+        "Position": "-19, -1",
+        "Rotation": "RotateNone"
+      },
+      {
+        "AssetId": "SWI01-36A",
+        "Position": "-11, 2",
+        "Rotation": "RotateNone"
+      }
+    ],
+    "Zones": [],
+    "Doors": [],
+    "Tokens": [],
+    "FigureTokens": []
+  },
+  "MissionBriefingPages": []
+}

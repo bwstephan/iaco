@@ -29,24 +29,9 @@
         "Rotation": "Rotate180"
       },
       {
-        "AssetId": "SWI01-22B",
-        "Position": "11, 6",
-        "Rotation": "Rotate180"
-      },
-      {
-        "AssetId": "SWI01-38A",
-        "Position": "14, 6",
-        "Rotation": "RotateNone"
-      },
-      {
         "AssetId": "SWI01-17B",
         "Position": "7, 8",
         "Rotation": "Rotate270"
-      },
-      {
-        "AssetId": "SWI01-37B",
-        "Position": "15, 12",
-        "Rotation": "RotateNone"
       },
       {
         "AssetId": "SWI32-06B",
@@ -107,6 +92,21 @@
         "AssetId": "SWI01-32A",
         "Position": "20, 10",
         "Rotation": "Rotate270"
+      },
+      {
+        "AssetId": "SWI01-22B",
+        "Position": "11, 6",
+        "Rotation": "Rotate180"
+      },
+      {
+        "AssetId": "SWI01-37B",
+        "Position": "14, 6",
+        "Rotation": "RotateNone"
+      },
+      {
+        "AssetId": "SWI01-38A",
+        "Position": "15, 12",
+        "Rotation": "RotateNone"
       }
     ],
     "Zones": [],
@@ -184,20 +184,20 @@
       },
       {
         "CardIdentifier": {
-          "Name": "E-Web Engineer",
-          "IsElite": false
-        },
-        "Color": "Black",
-        "Position": "12, 5",
-        "Rotation": "RotateNone"
-      },
-      {
-        "CardIdentifier": {
           "Name": "Imperial Officer",
           "IsElite": false
         },
         "Color": "Gray",
         "Position": "11, 6",
+        "Rotation": "RotateNone"
+      },
+      {
+        "CardIdentifier": {
+          "Name": "E-Web Engineer",
+          "IsElite": false
+        },
+        "Color": "Black",
+        "Position": "12, 5",
         "Rotation": "RotateNone"
       }
     ]

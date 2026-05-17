@@ -14,7 +14,11 @@ With the heroes of the Alliance occupied with more important matters, a group of
 ## 1 - The Logbook - Ryloth
 
 Threat Level 2  
+
 ![The Logbook](./Story%20Missions/01%20-%20The%20Logbook.png)
+
+![The Logbook](./Story%20Missions/01%20-%20The%20Logbook.jpg)
+
 ### Mission Briefing
 > The deep shadows cast by the trees do little to cool you in the humid climate of Ryloth's jungles. You approach the place your contact told you about and soon can hear sounds you recognize as Stormtrooper radio chatter.
 > Being careful with your approach, you manage to sneak close, overhearing an Imperial officer: "... and keep your grubby gloves off my terminals. This is important data and we can't afford to lose it!".
@@ -59,6 +63,8 @@ The Imperial player chooses 1 of the following:
 
 Threat Level 1
 !["Golden Opportunity"](./Story%20Missions/02%20-%20Golden%20Opportunity.png)
+
+!["Golden Opportunity"](./Story%20Missions/02%20-%20Golden%20Opportunity.jpg)
 ### Card Text
 >Arriving on Tattooine, you make your way to the shady parts of Mos Espa, where C-3PO was last seen. Talking to the locals for a while, they mention that Stormtroopers increased their presence, even down to the more unsavory parts of the port city.
 
@@ -161,9 +167,16 @@ Threat Level 1
 >At the bridge of the Lance, you decide to confront Vos. "Yes, yes, I should have told you. Thing is, these coordinates are scrambled. The empire has an ever evolving cypher list to make them unusuable even if you decrypt these messages ... unless you have access to the current descrambling seed. And this is where you come in." He turns around and opens up a holo projction of a star system. "No that's not where these coordinates point. That's Corellia. I do have and old friend who still does some contract work for the Empire there. Obviously I can't just send him a message. But I CAN send you."
 >He hands you a datapad with a name, Kalev Sorn, a holo of his face, and not much more. "He is a lot older than on this picture of course. And I trust your abilities to find him. When you do, mention *Kessel Vector*. We served on this mission together and ... he might tell you the rest. I am sure he will remember after telling him. He should give you the current seed with which we can make sense of these coordinates." Pad in hand, you head out to find Rell and grab your gear for another tough mission.
 
-## 4 Double Agent (Heart of the Empire p.24) - Corellia
+## 4 Lion's Den - Corellia
+
+Threat Level 3
 
 [PDF Link to the original Double Agent mission.](https://drive.google.com/file/d/1Kdk2POyU0vSxodTgWVXXqJ796r29jou2/view?usp=drive_link)
+
+!["Lion's Den"|570](./Story%20Missions/04%20-%20Lions%20Den.png)
+
+!["Lion's Den"|570](./Story%20Missions/04%20-%20Lions%20Den.jpg)
+
 ### Card Text
 > You made contact with Kalev Sorn, who is still working for the Empire. After establishing your connection to Vos, he agrees to meet you in a diner to hand over the scrambling seed. He chose a diner near Juni Street Station. With all the light of the casinos, it will be hard to stay undetected.
 ### Mission Briefing

@@ -15,6 +15,7 @@ The starting Mission is “The Logbook”. Jump to the [Story Mission document](
 # Campaign Setup (after the initial mission)
 
 * Shuffle all available green and grey side missions into the Side Mission deck.
+* Set the Threat level to 1.
 
 # Campaign Round Steps
 
@@ -54,7 +55,7 @@ Additional, rewards are based on the color of the side Mission:
 To advance the Campaign Timer, roll 3 yellow dice and count surges. Add all Surges as progress to the ODS Tracker. Imperial Units improve for all missions based on the tracker value:
   * ODS 10: +1 Health
   * ODS 20: +1 Evade
-  * ODS 30: +1 Threat
+  * ODS 30: +1 Threat Level
   * ODS 40: +1 Damage, \+1 Surge  — Tier-1 border —
   * ODS 50: TBD
   * ODS 60: TBD
