@@ -58,22 +58,34 @@ Diala Passil
 * Precise Strike changes to Foresight: 2 Strain. Use while defending to add +1 Evade or +1 Block to the defense results.
 * Foresight is changed to Force Strike: 1 Strain. Use during an attack with a melee weapon. This attack gains +1 Damage. After the attack, you may push the target to an open space adjacent to the target space.
 
+!["Diala Passil"](./Custom%20Cards/Heroes/Diala%20Passil-healthy.png)
+
 Fenn Signis
 * Speed +1
 * Changes to Havoc Shot: 2 Strain. Use while attacking with a ranged weapon. This attack gains Blast 1 Damage.
 * Changes to Lone Wolf: At the end of your activation, if there are no friendly figures adjacent to you, recover 1 Damage.
 
+!["Fenn Signis"](./Custom%20Cards/Heroes/Fenn%20Signis-healthy.png)
+
 Gaarkhan
 * Speed +2
 
+!["Gaarkhan"](./Custom%20Cards/Heroes/Gaarkhan-healthy.png)
+
 Gideon Argus
 * Speed +1
-* Disabling Shot changes to Aid: Action -> 1 Strain. Recover 2 Damage on an adjacent friendly figure. This skills cannot turn a hero from the wounded to the healthy side. This action can be used twice per round.
+* Disabling Shot changes to Aid: Action -> 1 Strain. Recover 2 Damage on an adjacent friendly figure This action can be used twice per round. This skills cannot turn a hero from the wounded to the healthy side. 
+
+!["Gideon Argus"](./Custom%20Cards/Heroes/Gideon%20Argus-healthy.png)
 
 Jyn Odan
 * Speed +2
+
+!["Jyn Odan"](./Custom%20Cards/Heroes/Jyn%20Odan-healthy.png)
 
 Mak Eshka'rey
 * Speed +2
 * Changes to Ambush: 1 Strain. Use during an attack targeting a figure that does not have line of sight to you. This attack gains +2 Damage.
 * Changes to Supply Network: You gain +1 Accessory Slot. Action: Deplete this card to use any Medical Accessory as if it were a Medkit.
+
+!["Mak Eshka'rey"](./Custom%20Cards/Heroes/Mak%20Eshka’rey-healthy.png)
