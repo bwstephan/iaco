@@ -62,6 +62,11 @@ Abilities:
 * Surge: After the attack, gain 1 movement point.
 
 Cost: 200 Credits
+
+### Tier 2
+
+### Tier 3
+
 ## Attachments
 
 ### Tier 1
@@ -92,6 +97,10 @@ Abilities:
 * Add 2 to “Overheat” to attached ranged weapon.
 
 Cost: 50 Credits
+
+### Tier 2
+
+### Tier 3
 ## Armors
 
 ### Tier 1
@@ -108,6 +117,10 @@ Abilities:
 * Exhaust during an attack targeting you to add 1 Block to the defense results.
 
 Cost: 150 Credits
+
+### Tier 2
+
+### Tier 3
 ## Accessories
 
 ### Starting
@@ -130,3 +143,7 @@ Abilities:
 * Exhaust during your activation to suffer 1 Damage and gain 3 Movement Points.
 
 Cost: 150 Credits
+
+### Tier 2
+
+### Tier 3
