@@ -139,20 +139,20 @@ Abilities
 * Train troop: Dedicate a hero (becomes unavailable for the following 2 missions) to gain 1XP. The hero cannot be dedicated to other tasks during that time.
 * Buy Training Upgrades:
   * Physical Conditioning
-    * +1 health per XP skill a hero earned. This resolves retroactively for skills purchased before this Training Upgrade.
-    * Cost: 70 Credits
+    * Heroes get +1 health per XP skill they earned. This resolves retroactively for skills purchased before this Training Upgrade.
+    * Cost: 100 Credits
   * Boom
-    * +1 damage with grenades for heroes equipped with the [[New Items and Starting Weapons#Under Barrel Launcher|Under Barrel Launcher]] attachment.
-    * Cost: 70 Credits
+    * +1 damage with grenades for heroes equipped with the [Under Barrel Launcher](./New%20Items%20and%20Starting%20Weapons.md) attachment.
+    * Cost: 100 Credits
   * Ping
-    * +1 surge and +3 accuracy when using a weapon with the “Long Rifle” trait if the Target is 4 or more spaces away.
-    * Weapons with the "Long Rifle" trait can reduce their Accuracy by 2 to gain +2 Damage.
-    * Cost: 70 Credits
+    * +1 surge and +3 accuracy when using a weapon with the ["Long Rifle" trait](./New%20Items%20and%20Starting%20Weapons.md) trait if the Target is 4 or more spaces away.
+    * Weapons with the ["Long Rifle" trait](./New%20Items%20and%20Starting%20Weapons.md) can reduce their Accuracy by 2 to gain +2 Damage.
+    * Cost: 100 Credits
   * Dead Shot
-    * +1 damage and +1 Surge when attacking with a weapon with the “Gun” trait while adjacent to the target space.
-    * Cost: 70 Credits
+    * +1 damage and +1 Surge when attacking with a weapon with the  [“Gun” trait](./New%20Items%20and%20Starting%20Weapons.md) while within 2 range of the target space.
+    * Cost: 100 Credits
   * Woosh
-    * +1 Evade when wearing the [[New Items and Starting Weapons#Combat Coat|Combat Coat]].
+    * +1 Evade when wearing the [any Armor](./New%20Items%20and%20Starting%20Weapons.md).
     * Cost: 50 Credits
 
 Upgrades:

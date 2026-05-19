@@ -20,10 +20,10 @@ Weight: 2
 Overheat: 2  
 Dice: 1x Red  
 Abilities:
-* +2 Accuracy
-* If target space is adjacent: +2 Damage
+* +3 Accuracy
+* If target space within 2 range: +2 Damage
 * Surge: +2 Accuracy
-* You may reduce Acuracy by 2 for +2 Damage
+* You may reduce Accuracy by 2 for +2 Damage
 * You may reduce Damage by 2 for +2 Accuracy
 
 Cost: 200 Credits
@@ -69,7 +69,7 @@ Cost: 200 Credits
 #### Optical Scope
 Attach to a ranged weapon  
 Abilities:
-* When declaring an attack, spend one Movement Point to gain \+2 Accuracy on the next attack.
+* When declaring an attack, spend one Movement Point to gain +3 Accuracy on the next attack.
 
 Cost: 100 Credits
 #### Double Blade
