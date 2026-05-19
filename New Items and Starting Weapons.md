@@ -26,7 +26,7 @@ Abilities:
 * You may reduce Acuracy by 2 for +2 Damage
 * You may reduce Damage by 2 for +2 Accuracy
 
-Cost: 140 Credits
+Cost: 200 Credits
 #### Krayt Fang V-3
 Melee  
 Traits: Axe - Vibro  
@@ -36,7 +36,7 @@ Abilities:
 * +2 Damage
 * Surge: Cleave 2
 
-Cost: 250 Credits
+Cost: 150 Credits
 #### Corellian E-9X
 Ranged  
 Traits: Blaster - Long Rifle  
@@ -49,7 +49,7 @@ Abilities:
 * Surge: + 2 Accuracy
 * If your target is 4 or more spaces away, you may reduce your Accuracy by 2 to gain +1 Damage. Maximum of twice per attack.
 
-Cost: 140 Credits
+Cost: 250 Credits
 #### M-5 Rotary Emitter
 Ranged  
 Traits: Blaster - Gun  
@@ -61,7 +61,7 @@ Abilities:
 * Surge: +2 Damage
 * Surge: After the attack, gain 1 movement point.
 
-Cost: 250 Credits
+Cost: 200 Credits
 ## Attachments
 
 ### Tier 1
@@ -70,9 +70,8 @@ Cost: 250 Credits
 Attach to a ranged weapon  
 Abilities:
 * When declaring an attack, spend one Movement Point to gain \+2 Accuracy on the next attack.
-* While attacking, spend 2 Accuracy to add +1 Damage. Limit once per attack.
 
-Cost: 110 Credits
+Cost: 100 Credits
 #### Double Blade
 Attach to a melee weapon  
 Abilities:
@@ -84,7 +83,7 @@ Attach to a ranged weapon
 Abilities:
 * You can carry one additional attachment with the trait “Grenade”.  
 * Increase all “Throw” values by 3.
-* Accessories with the trait “Grenade” deal 1 additional Damage.
+* Accessories with the trait “Grenade” deal +1 Damage.
 
 Cost: 150 Credits
 #### Energy Cell Expansion
@@ -92,7 +91,7 @@ Attach to a ranged weapon
 Abilities:
 * Add 2 to “Overheat” to attached ranged weapon.
 
-Cost: 70 Credits
+Cost: 50 Credits
 ## Armors
 
 ### Tier 1
@@ -102,13 +101,13 @@ Abilities:
 * +2 Health
 * Exhaust during an attack targeting you to add 1 Evade to the defense results.
 
-Cost: 120 Credits
+Cost: 100 Credits
 #### Dura Breastplate
 Abilities:
 * +3 Health
 * Exhaust during an attack targeting you to add 1 Block to the defense results.
 
-Cost: 160 Credits
+Cost: 150 Credits
 ## Accessories
 
 ### Starting
@@ -130,4 +129,4 @@ Trait: Medical - Drug
 Abilities:
 * Exhaust during your activation to suffer 1 Damage and gain 3 Movement Points.
 
-Cost: 120 Credits
+Cost: 150 Credits

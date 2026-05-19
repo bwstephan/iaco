@@ -119,7 +119,7 @@ Upgrades:
 * More work benches: Additional +2 Surges per dedicated troop member for research. Cost: 200 Credits
 ### Workshop
 Cost:
-* 170 Credits
+* 150 Credits
 * 15 Engineering Progress. 
 Power draw: 6  
 
@@ -174,7 +174,7 @@ Upgrades:
 * Upgrade: Another Bacta Tank. Choose up to 2 heroes. Cost: 450 Credits
 ### Comms station
 Cost:
-* 80 Credits
+* 50 Credits
 * 15 Engineering Progress. 
 Power draw: 8
 
