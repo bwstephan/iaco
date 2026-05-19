@@ -15,6 +15,7 @@ The starting Mission is “The Logbook”. Jump to the [Story Mission document](
 # Campaign Setup (after the initial mission)
 
 * Shuffle all available green and grey side missions into the Side Mission deck.
+* If at any time the Side Mission Deck would be empty, shuffle the discarded Side Missions back into the deck.
 * Set the Threat level to 1.
 
 # Campaign Round Steps
@@ -25,6 +26,7 @@ The starting Mission is “The Logbook”. Jump to the [Story Mission document](
 * Heroes recover Damage.
   * Rolls 3 yellow dice for each wounded hero. Remove 2 damage for each Surge rolled from the deployment card of that hero.
 * Spend XP on heroes to add Class Cards.
+* Heroes cannot spend XP on cards that cost 4 or more XP unless the appropriate research is completed.
 * Facility functions
   * Dedicate each hero to a facility.
   * Roll the appropriate dice
@@ -93,9 +95,12 @@ These facilities can be built into one of the free rooms on the RSV Lance. The L
 Cost
 * 350 Credits
 * 35 Engineering Progress
+
 Power draw: 0  
+
 Abilities
-* Adds 5 to the maximum load of the RSV Lance Power Grid.
+* Adds 5 to the maximum load of the RSV Lance Power Grid.  
+
 Upgrades:
 * Increase the maxmium load by an additional 5. Cost: 150 Credits
 
@@ -103,16 +108,20 @@ Upgrades:
 Cost
 * 350 Credits
 * 35 Engineering Progress
+
 Power draw: 3  
+
 Abilities
 * +2 Surges per dedicated troop member for research.
+
 Upgrades:
 * More work benches: Additional +2 Surges per dedicated troop member for research. Cost: 200 Credits
 ### Workshop
 Cost:
 * 170 Credits
-* 15 Engineering Progress
+* 15 Engineering Progress. 
 Power draw: 6  
+
 Abilities
 * \+1 Surge per dedicated troop member for building facilities or droids (droids are mechanized troops that do not get wound penalties and will be introduced with the [[README#Reworked Characters and Abilities ~Q4/26 - Rebel Reinforcements|Rebel Reinforcements]] Update).  
 * Unlocks Heavy Weapons and Special Weapons research.  
@@ -121,7 +130,9 @@ Abilities
 Cost:
 * 250 Credits
 * 25 Engineering Progress
-Power draw: 5  
+
+Power draw: 5
+
 Abilities
 * Unlocks "Commander Training" Research to unlock Skills that cost 4XP.  
 * Train troop: Dedicate a hero (becomes unavailable for the following 2 missions) to gain 1XP. The hero cannot be dedicated to other tasks during that time.
@@ -133,34 +144,41 @@ Abilities
     * +1 damage with grenades for heroes equipped with the [[New Items and Starting Weapons#Under Barrel Launcher|Under Barrel Launcher]] attachment.
     * Cost: 70 Credits
   * Ping
-    * +1 surge and +2 accuracy when using a weapon with the “Long Rifle” trait
+    * +1 surge and +3 accuracy when using a weapon with the “Long Rifle” trait if the Target is 4 or more spaces away.
+    * Weapons with the "Long Rifle" trait can reduce their Accuracy by 2 to gain +2 Damage.
     * Cost: 70 Credits
   * Dead Shot
-    * +1 damage and +1 Surge when attacking with a weapon with the “Gun” trait while adjacent to the target space
+    * +1 damage and +1 Surge when attacking with a weapon with the “Gun” trait while adjacent to the target space.
     * Cost: 70 Credits
   * Woosh
     * +1 Evade when wearing the [[New Items and Starting Weapons#Combat Coat|Combat Coat]].
     * Cost: 50 Credits
+
 Upgrades:
-* Upgrade: +2 slots for training troops.
+* Upgrade: +2 slots for training troops. Cost: 120 Credits
 
 ### Infirmary
 Cost:
 * 300 Credits
 * 25 Engineering Progress
-Power draw: 8  
+
+Power draw: 8
+
 Abilities
-* Infirmary bed: Dedicate troops (max. 2\) to double the amount healed. Dedicated heroes are unavailable for the next mission.  
-* Upgrade: Bacta Tank. Choose a hero. Reduce the amount of damage on that hero by 10\. Limit once per Campaign Round.  
-* Upgrade: More beds. Increase the troops that can be dedicated here to a maximum of 6\.  
-* Upgrade: Another Bacta Tank. Choose up to 2 heroes.
+* Infirmary bed: Dedicate troops (max. 2) to the amount healed by 2. Dedicated heroes are unavailable for the next mission.  
+
+Upgrades:  
+* Bacta Tank: Choose a hero. Reduce the amount of damage on that hero by 10. Limit once per Campaign Round.  Cost: 350 Credits
+* More beds: Increase the troops that can be dedicated here to a maximum of 6. Cost: 200 Credits
+* Upgrade: Another Bacta Tank. Choose up to 2 heroes. Cost: 450 Credits
 ### Comms station
 Cost:
 * 80 Credits
-* 15 Engineering Progress
-Power draw: 8  
+* 15 Engineering Progress. 
+Power draw: 8
+
 Abilities
-* After revealing Side Missions, draw 3 Side Missions. Replace one revealed Mission with one drawn mission. Shuffle the remaining missions back into the deck.  
+* After revealing Side Missions, draw 3 Side Missions. Replace one revealed Mission with one drawn mission. Place one Mission on top of thr deck. Place one mission on the bottom of the deck. Discard one mission.
 * Buy  
   * Troops: Spend 180 credits to draw another hero from the deck and add them to your roster.  
   * Intel: Spend 40 credits to reduce the ODS timer by 1.
@@ -191,6 +209,7 @@ See [[New Items and Starting Weapons]].
 ### Attachments Tier-1
 Cost: 10 Research Progress  
 Gives access to
+* Grants +1 Attachment Slot
 * Optical Scope
 * Double Blade
 * Under Barrel Launcher
@@ -212,4 +231,4 @@ Cost: 25 Research Progress
 Unlocks the Double Agent Story Mission.
 ### Commander Training
 Cost: 25 Research Progress  
-Heroes can choose to spend XP to acquire 4 XP Class Cards.
+Heroes can choose to spend XP to acquire Class Cards with an XP value of 4 or more.

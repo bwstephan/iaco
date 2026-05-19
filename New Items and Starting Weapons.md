@@ -1,6 +1,6 @@
 # Items
 
-The campaign starts with only basic ranged and melee weapons. Research and Side Missions can unlock additional items. Unlocked items are available in unlimited quantity. Items, especially accessories, might still have usage limits (e.g.: “Limit once per mission”).
+The campaign starts with only basic ranged and melee weapons. Research and Side Missions can unlock additional items. Unlocked items are available in unlimited quantity. Items, especially accessories, might still have usage limits (e.g.: "Deplete" or “Limit once per mission”).
 ## Weapons
 
 ### Starting
@@ -22,7 +22,9 @@ Dice: 1x Red
 Abilities:
 * +2 Accuracy
 * If target space is adjacent: +2 Damage
-* Surge: after your target suffers Damage, interrupt to move one space. Then the attack gains Blast 2.
+* Surge: +2 Accuracy
+* You may reduce Acuracy by 2 for +2 Damage
+* You may reduce Damage by 2 for +2 Accuracy
 
 Cost: 140 Credits
 #### Krayt Fang V-3
@@ -39,25 +41,23 @@ Cost: 250 Credits
 Ranged  
 Traits: Blaster - Long Rifle  
 Weight: 3  
-Overheat: 2  
+Overheat: 3  
 Dice: 1x Blue  
 Abilities:
 * +5 Accuracy
 * +3 Damage
-* Surge: + 2 Damage
 * Surge: + 2 Accuracy
-* If you have 3 or more Accuracy more than needed to reach the target space, this Attack gains Pierce 2.
+* If your target is 4 or more spaces away, you may reduce your Accuracy by 2 to gain +1 Damage. Maximum of twice per attack.
 
 Cost: 140 Credits
 #### M-5 Rotary Emitter
 Ranged  
 Traits: Blaster - Gun  
 Weight: 4  
-Overheat: 2  
+Overheat: 3  
 Dice: 1x Red, 1x Green  
 Abilities:
-* +2 Accuracy
-* +1 Damage
+* +3 Accuracy
 * Surge: +2 Damage
 * Surge: After the attack, gain 1 movement point.
 
@@ -122,7 +122,7 @@ Cost: 160 Credits
 #### Flash Grenade
 Trait: Grenade  
 Abilities:
-* Special Action: During your activation, deplete this card to Throw 2\. Every figure on or adjacent to the target space becomes Weakened.
+* 1 Strain: During your activation, deplete this card and Throw 3. Every figure on or adjacent to the target space becomes Weakened.
 
 Cost: 50 Credits
 #### Adrenal Stim

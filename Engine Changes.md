@@ -1,7 +1,8 @@
 Dice
 
-* The dodge symbol on the white die only halves damage (rounded down) instead of negating all damage. With 2 white dice, this is additive (negating any damage with 2 dodge symbols) and not multiplicative.  
-* Enemies no longer have a defense die. Campaign progression will introduce increased Health as well as automatic defense icons.
+* The dodge symbol on the white die halves damage (rounded down) placed on a Hero Sheet or Deployment Card instead of negating all damage. With 2 white dice, this is additive (negating any damage with 2 dodge symbols) and not multiplicative.  
+* The dodge symbol is applied after calculating Damage.
+* Enemies no longer have a defense die. Campaign progression will introduce increased Health and as automatic defense icons.
 
 Cards
 
@@ -10,7 +11,7 @@ Cards
 Missions
 
 * When interacting with a crate token, heroes do not draw an item card from the Supply Deck. When instructed to draw Medkits (when playing with IC2), do not draw a Medkit.  
-* After the mission, add 15 Credits to the Credit pool for each crate token retrieved during the mission.  
+* After the mission, add 25 Credits to the Credit pool for each crate token retrieved during the mission.  
 * After the mission, move damage from the hero sheet to their respective Deployment Card.
 
 Heroes
@@ -25,7 +26,7 @@ Heroes
 * Heroes can no longer recover health by recovering strain.  
 * (After attacking, heroes can no longer move) - This might come into effect with the [“Rebel Reinforcements”](https://docs.google.com/document/d/1cSuRAZwL0sjDW5Q6y5QEJzHMlDrahW6bpgCuNL8Ja4U/edit?tab=t.0#heading=h.patbkdlkv1hh) update.
 * Heroes cannot pick Class Cards unless they first picked an Class Card with a cost 1 less than the chosen Class Card. This limitation does not apply to Class Cards with an XP cost of 1.
-* Heroes cannot pick Class Cards unless they first completed the "Commander Training" research in the [[Campaign Progression and Strategy Layer|Troop Training]] facility.
+* Heroes cannot pick 4 XP Class Cards unless they first completed the "Commander Training" research in the [[Campaign Progression and Strategy Layer|Troop Training]] facility.
 
 Items
 
@@ -34,10 +35,10 @@ Items
 
 Attacks
 
-* Weapons now have an “Overheat X” stat. With each attack, the player places a Strain token onto the weapon. If the amount of Strain equals “Overheat X”, the weapon needs to be cooled down. For this, every hero gains the Special Action “Cooldown”: Remove all strain tokens of one of your weapons. [Special weapon attachments](https://docs.google.com/document/d/1lw5UhnfTNR1U5amJ_FBn5ggsN_IojScuEZ6_4Bq3nfY/edit?tab=t.0#heading=h.rzpotyytdfz9) might also be able to cool down weapons without using an action, or increase their “Overheat”.
+* Ranged weapons now have an “Overheat X” stat. With each attack, the player places a Strain token onto the weapon. If the amount of Strain equals “Overheat X”, the weapon needs to be cooled down. For this, every hero gains the Special Action “Cooldown”: Remove all strain tokens of one of your weapons. [Special weapon attachments](https://docs.google.com/document/d/1lw5UhnfTNR1U5amJ_FBn5ggsN_IojScuEZ6_4Bq3nfY/edit?tab=t.0#heading=h.rzpotyytdfz9) might also be able to cool down weapons without using an action, or increase their “Overheat”.
 * New Line of Sight (LoS) system. The player draws lines to all 4 corners of a target space. As long as 2 lines are unobstructed by figures/terrain, the space can be targeted. Depending on how many lines are obstructed, the attack suffers a range penalty.
-  * 1 line obstructed: -2 Accuracy
-  * 2 lines obstructed: -5 Accuracy
+  * 1 line obstructed: -1 Accuracy
+  * 2 lines obstructed: -4 Accuracy
 * The new LoS system also applies to enemy attacks. This makes it feasible to “hide” heroes behind obstructions.
 * (Some large enemies now have facing. They have improved defense stronger attacks in direction of facing) - This will come into effect with the [Unveiling](https://docs.google.com/document/d/1cSuRAZwL0sjDW5Q6y5QEJzHMlDrahW6bpgCuNL8Ja4U/edit?tab=t.0#heading=h.466i1qkq1bkr) update.
 * Cleave only works on adjacent targets, even if the weapon has Reach.
@@ -86,6 +87,6 @@ Jyn Odan
 Mak Eshka'rey
 * Speed +2
 * Changes to Ambush: 1 Strain. Use during an attack targeting a figure that does not have line of sight to you. This attack gains +2 Damage.
-* Changes to Supply Network: You gain +1 Accessory Slot. Action: Deplete this card to use any Medical Accessory as if it were a Medkit.
+* Changes to Supply Network: +1 Health, +1 Endurance. You gain +1 Accessory Slot. Action: Deplete this card to use any Medical Accessory as if it were a Medkit.
 
 !["Mak Eshka'rey"](./Custom%20Cards/Heroes/Mak%20Eshka’rey-healthy.png)
