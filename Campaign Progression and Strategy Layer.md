@@ -74,7 +74,7 @@ Some effects can reduce the progress on the ODS Tracker. Points can not be reduc
 
 ## Free rooms for facilities
 
-The [Gozanti-class cruiser](https://starwars.fandom.com/wiki/Gozanti-class_cruiser) has a working engineering station, a research lab, and 8 unused rooms that the player can build additional facilities in. Some facilities may be required to advance the campaign story missions. Facilities (only if they are not mandatory for campaign progress) can be torn down to free up rooms. Tearing down a room does not cost resources or time but also doesn’t refund spent resources during construction of the facility.
+The [RSV Lance](https://starwars.fandom.com/wiki/Gozanti-class_cruiser) has a working engineering station, a research lab, and 8 unused rooms that the player can build additional facilities in. Some facilities may be required to advance the campaign story missions. Facilities (only if they are not mandatory for campaign progress) can be torn down to free up rooms. Tearing down a room does not cost resources or time but also doesn’t refund spent resources during construction of the facility.
 ## Standard Facilities
 
 ### Engineering
@@ -180,7 +180,7 @@ Cost:
 Power draw: 8
 
 Abilities
-  * Intel: Spend 40 credits to reduce the ODS timer by 1.
+  * Intel: Spend 50 credits to reduce the ODS timer by 1.
 
 ## Research Projects
 

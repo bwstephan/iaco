@@ -92,3 +92,4 @@ The story should kicks off with the heroes discovering the acronym “ODS”. Ov
 * Mission selection based on location of the cruiser in the galaxy.
 * Using range values as proxy for accuracy, increasing or lowering damage.
 * Facility adcency bonuses.
+* Multiple ways to gain Credits and Lance Power. New Currency "Intel" being able to be traded for both? Used for other things?
