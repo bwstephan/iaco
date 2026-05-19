@@ -175,13 +175,11 @@ Upgrades:
 ### Comms station
 Cost:
 * 50 Credits
-* 15 Engineering Progress. 
+* 15 Engineering Progress.
+
 Power draw: 8
 
 Abilities
-* After revealing Side Missions, draw 3 Side Missions. Replace one revealed Mission with one drawn mission. Place one Mission on top of thr deck. Place one mission on the bottom of the deck. Discard one mission.
-* Buy  
-  * Troops: Spend 180 credits to draw another hero from the deck and add them to your roster.  
   * Intel: Spend 40 credits to reduce the ODS timer by 1.
 
 ## Research Projects
