@@ -1,25 +1,23 @@
 # Vision
 
 This document should give an overview of the mod and the high level concepts behind the changes. The .md files are authored with [Obsidian](https://obsidian.md/) and are best viewed with it. Some references into files won't work without it.
+This Total Conversion (TC) draws heavily of the games XCOM: Enemy Within and XCOM2. In general, missions should flow quicker. More missions should be played in a campaign. It should be feasable to set up and play a Side Mission within 2 hours. The Strategy Layer (SL) should pose tough choices on which direction to develop first.
 ## Playing
 
-The mod assumes you have a solid grasp on the fundamentals of Imperial Assault. All basic rules of Imperial Assault are still in effect, unless detailed otherwise by the mod. The [Engine Changes](./Engine%20Changes.md) document aims to centralize all changes to the core mission gameplay.  
-The mod should be played with the assistance of Imperial Commander 2 (IC2) and is intended to be a single-player experience. Rounds should be quicker and this will be accomplished to reduce the complexity of interactions of hero activations and through streamlining board state interactions.  
-Subsequent modifications to unit templates in IC2 might appear to better fit the style of play.
+The TC assumes you have a solid grasp on the fundamentals of Imperial Assault. All basic rules of Imperial Assault are in effect, unless detailed otherwise by the mod. The [Engine Changes](./Engine%20Changes.md) document aims to centralize all changes to the core mission gameplay.  
+The mod is intended to be played with the assistance of Imperial Commander 2 (IC2) and designed as a single-player experience. Rounds should resolve quicker. The aim is to accomplish this by reducing choices within hero activations and increasing reliance on positioning/movement and mission progress. Custom Story Missions for IC2 will be available in the repository.
+Subsequent modifications to unit templates in IC2 might appear to better fit the style of play. A custom campaign might be available in IC2 to better track campaign progression. At first, campaign progression will be handled via a .gsheet.
 
 If you want to jump in and are experienced with Imperial Assault, start here at the [setup for the first mission](./Campaign%20Progression%20and%20Strategy%20Layer.md).
 ## Strategy Layer (SL)
 
-The SL is a system that replaces the “Campaign Upgrade Stage” of the base game and the core part of the mod. Instead of buying gear revealed of a tier deck, The resources go into upgrading a run-down [Gozanti-class cruiser](https://starwars.fandom.com/wiki/Gozanti-class_cruiser), the **RSV Lance**, and an old [Sheathipede shuttle](https://starwars.fandom.com/wiki/Sheathipede-class_transport_shuttle). The cruiser can be fitted out with specialized facilities that improved the heroes and their effectiveness in battle. Ideas for facilities are:
+The SL is a system that replaces the “Campaign Upgrade Stage” of the base game and the core part of the mod. Instead of buying gear revealed of a tier deck, The resources go into upgrading a run-down [Gozanti-class cruiser](https://starwars.fandom.com/wiki/Gozanti-class_cruiser), the **RSV Lance**, and an old [Sheathipede shuttle](https://starwars.fandom.com/wiki/Sheathipede-class_transport_shuttle). The cruiser can be fitted out with specialized facilities that improved the heroes and their effectiveness in battle. A list of facilities can be found in [the Campaign Progression and Strategy Layer](./Campaign%20Progression%20and%20Strategy%20Layer.md) document.
+Ideas for additional facilities are:
 
-* An Infirmary \- upgradable with a Bacta Tank \- to reduce wound healing times.  
-* A workshop to upgrade weapons and armor with attachments and potentially manufacture attachments  
-* A lab to research better weapons and armor (manufactured in the workshop?) also by studying imperial enemies.  
-* Droid bay to construct and repair droid heroes (later on).  
-* Training rooms to improve or change skills of heroes.  
+* Droid bay to construct and repair droid heroes that that need to be repaired instead of healed. Maybe this will be rolled into the workshop.  
 * A communication room to better communicate with resistance cells and Rebel High Command in other systems.  
 * Defenses (outside and inside?) to repel imperial attacks/raids?  
-* Upgrades for the Shuttle like capacity, cloaking, bombarding capabilities, …
+* Upgrades for the Shuttle like capacity, cloaking, bombarding capabilities, …  
 ## Troops and Troop Management
 
 The player can’t bring every hero for every mission. Heroes suffer wounds, preventing them from joining subsequent missions unless healed/rested. For this purpose, the player chooses 8 initial heroes as a starting squad that can be extended by hiring (spending credits) or winning over (via a Side Mission) additional heroes.  
@@ -67,12 +65,12 @@ The story should kicks off with the heroes discovering the acronym “ODS”. Ov
 * Introduces new starting weapons and weapons to research.
 * Introduces new Gear and systems to research/acquire gear.
 * Introduces the SL, the new campaign progression and how to acquire weapons, armor and accessories.
-* Introduces the new narrative goal \- only resolved until the end of tier 1 of the campaign progression (about 4 story missions)
+* Introduces the new narrative goal - only resolved up until the end of tier 1 of the campaign progression (4 story missions)
 ### Reworked Characters and Abilities \~Q4/26 \- Rebel Reinforcements
 
-* Heroes reworked to use the skirmish card design.
-* Many Allies reworked as heroes.
-* Classes reworked and more freely assignable to heroes.
+* All IA Heroes reworked.
+* Some allies reworked as heroes.
+* Classes reworked and more freely assignable to Heroes.
 * Changes to enemies to resolved too much movement in IC2.
 * Campaign starts with 3 seats on the Lambda T4 shuttle (upgradeable to 5).
 * Introduces better wound and fatigue systems.

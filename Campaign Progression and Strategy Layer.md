@@ -17,16 +17,17 @@ The starting Mission is “The Logbook”. Jump to the [Story Mission document](
 * Shuffle all available green and grey side missions into the Side Mission deck.
 * If at any time the Side Mission Deck would be empty, shuffle the discarded Side Missions back into the deck.
 * Set the Threat level to 1.
+* Clone the [IA - Covert Operations Campaign Sheet](https://docs.google.com/spreadsheets/d/18BkZr6Z7Gd6banwmM_WRkf6pnBNkgX9nVi0hL4KxH2E/edit?usp=drive_link) and use it to track the campaign.
 
 # Campaign Round Steps
 
-* Transfer damage from Hero Sheets to the respective Deployment Cards.
+* Transfer damage from Hero Sheets to the respective Deployment Cards or their section in the campaign sheet.
 	* Add 2 damage per face down [Medkit](./New%20Items%20and%20Starting%20Weapons.md) to a hero. Then remove facedown Medkits.
-* Draw new Side Missions.
+* Draw 3 new Side Missions.
 * Heroes recover Damage.
-  * Rolls 3 yellow dice for each wounded hero. Remove 2 damage for each Surge rolled from the deployment card of that hero.
+  * Roll 3 yellow dice for each wounded hero. Remove 2 damage for each Surge rolled from the deployment card of that hero.
 * Spend XP on heroes to add Class Cards.
-* Heroes cannot spend XP on cards that cost 4 or more XP unless the appropriate research is completed.
+* Heroes cannot spend XP on cards that cost 4 or more XP unless the appropriate research "Commander Training" is completed.
 * Facility functions
   * Dedicate each hero to a facility.
   * Roll the appropriate dice
@@ -40,12 +41,12 @@ The starting Mission is “The Logbook”. Jump to the [Story Mission document](
 * Pick a new mission.
 	* Story Missions can only be played once unlocked. See [[Story Missions]] for details.
 	* If the picked mission is a Side Mission, discard all other available Side Missions.
-* Pick heroes up to the shuttle capacity to join the mission.
-  * Heroes with wounds still on them can not be chosen for the squad.
+* Pick and amount of  heroes up to the shuttle capacity to join the mission.
+  * Heroes with Damage or Strain can not be chosen for the squad.
 
 # Side Mission rewards
 
-Ignore all rewards from Side Missions. Heroes that complete a Side Mission (not all heroes are withdrawn) earn 1 XP adn 100 credits (in total).
+Ignore all rewards from Side Missions. Heroes that complete a Side Mission (not all heroes are withdrawn) earn 1 XP and 100 credits (in total).
 
 Additional, rewards are based on the color of the side Mission:
 * Green Side Missions reward a new hero for the troop roster. After completing a Green Side Mission without all heroes being withdrawn, shuffle the hero deck and draw on hero. Add that hero to your troop roster.
@@ -58,7 +59,7 @@ To advance the Campaign Timer, roll 3 yellow dice and count surges. Add all Surg
   * ODS 10: +1 Health
   * ODS 20: +1 Evade
   * ODS 30: +1 Threat Level
-  * ODS 40: +1 Damage, \+1 Surge  — Tier-1 border —
+  * ODS 40: +1 Damage, +1 Surge  — Tier-1 border —
   * ODS 50: TBD
   * ODS 60: TBD
   * ODS 70: TBD
