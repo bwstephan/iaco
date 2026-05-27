@@ -15,10 +15,8 @@ The campaign starts with only basic ranged and melee weapons. Research and Side 
 
 #### ZX-9 Scatter Blaster
 ![ZX-9 Scatter Blaster](./Custom%20Cards/ZX-9%20Scatter%20Blaster.png)
-Cost: 200 Credits
 #### Krayt Fang V-3
 ![Krayt Fang V-3](./Custom%20Cards/Krayt%20Fang%20V-3.png)
-Cost: 150 Credits
 #### Corellian E-9X
 Ranged  
 Traits: Blaster - Long Rifle  
@@ -55,10 +53,8 @@ Cost: 200 Credits
 
 #### Energy Cell
 ![Energy Cell](./Custom%20Cards/Energy%20Cell.png)
-Cost: 50 Credits
 #### Optical Scope
 ![Optical Scope](./Custom%20Cards/Optical%20Scope.png)
-Cost: 100 Credits
 #### Double Blade
 Attach to a melee weapon  
 Abilities:
@@ -109,10 +105,8 @@ Cost: 150 Credits
 
 #### Flash Grenade
 ![Flash Grenade](./Custom%20Cards/Flash%20Grenade.png)
-Cost: 50 Credits
 #### Adrenal Stim
 ![Adrenal Stim](./Custom%20Cards/Adrenal%20Stim.png)
-Cost: 150 Credits
 
 ### Tier 2
 
