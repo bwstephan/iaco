@@ -7,6 +7,8 @@ Dice
 Cards
 
 * New key word “Exhaust X”. After exhausting the card, place X amount of Strain on the card. When the card would be made ready again, instead remove 1 Strain from the card. If there is no Strain on the card, ready it as normal.
+* New key word "Charges X". When placing down the card, put X strain token on it. Each time the effect on the card is used, remove one Strain. If there is no strain on your card, the effect cannot be triggered.
+* New key word "Overheat X". With each attack, the player places a Strain token onto the weapon. If the amount of Strain equals “Overheat X”, the weapon needs to be cooled down.
 
 Missions
 
@@ -27,6 +29,7 @@ Heroes
 * (After attacking, heroes can no longer move) - This might come into effect with the [“Rebel Reinforcements”](https://docs.google.com/document/d/1cSuRAZwL0sjDW5Q6y5QEJzHMlDrahW6bpgCuNL8Ja4U/edit?tab=t.0#heading=h.patbkdlkv1hh) update.
 * Heroes cannot pick Class Cards unless they first picked an Class Card with a cost 1 less than the chosen Class Card. This limitation does not apply to Class Cards with an XP cost of 1.
 * Heroes cannot pick 4 XP Class Cards unless they first completed the "Commander Training" research in the [[Campaign Progression and Strategy Layer|Troop Training]] facility.
+* All heroes gain the Special Action “Cooldown”: Remove all strain tokens of one of your weapons. 
 
 Items
 
@@ -35,7 +38,7 @@ Items
 
 Attacks
 
-* Ranged weapons now have an “Overheat X” stat. With each attack, the player places a Strain token onto the weapon. If the amount of Strain equals “Overheat X”, the weapon needs to be cooled down. For this, every hero gains the Special Action “Cooldown”: Remove all strain tokens of one of your weapons. [Special weapon attachments](https://docs.google.com/document/d/1lw5UhnfTNR1U5amJ_FBn5ggsN_IojScuEZ6_4Bq3nfY/edit?tab=t.0#heading=h.rzpotyytdfz9) might also be able to cool down weapons without using an action, or increase their “Overheat”.
+* All ranged weapons now have an “Overheat X” value. Every hero can use the Special Action “Cooldown” [Special weapon attachments](https://docs.google.com/document/d/1lw5UhnfTNR1U5amJ_FBn5ggsN_IojScuEZ6_4Bq3nfY/edit?tab=t.0#heading=h.rzpotyytdfz9) might also be able to cool down weapons without using an action, or increase their “Overheat” value.
 * New Line of Sight (LoS) system. The player draws lines to all 4 corners of a target space. As long as 2 lines are unobstructed by figures/terrain, the space can be targeted. Depending on how many lines are obstructed, the attack suffers a range penalty.
   * 1 line obstructed: -1 Accuracy
   * 2 lines obstructed: -4 Accuracy

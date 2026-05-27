@@ -14,47 +14,29 @@ The campaign starts with only basic ranged and melee weapons. Research and Side 
 ### Tier 1
 
 #### ZX-9 Scatter Blaster
-Ranged  
-Traits: Blaster - Gun  
-Weight: 2  
-Overheat: 2  
-Dice: 1x Red  
-Abilities:
-* +3 Accuracy
-* If target space within 2 range: +2 Damage
-* Surge: +2 Accuracy
-* You may reduce Accuracy by 2 for +2 Damage
-* You may reduce Damage by 2 for +2 Accuracy
-
+![ZX-9 Scatter Blaster](./Custom%20Cards/ZX-9%20Scatter%20Blaster.png)
 Cost: 200 Credits
 #### Krayt Fang V-3
-Melee  
-Traits: Axe - Vibro  
-Weight: 2  
-Dice: 1x Red  
-Abilities:
-* +2 Damage
-* Surge: Cleave 2
-
+![Krayt Fang V-3](./Custom%20Cards/Krayt%20Fang%20V-3.png)
 Cost: 150 Credits
 #### Corellian E-9X
 Ranged  
 Traits: Blaster - Long Rifle  
 Weight: 3  
-Overheat: 3  
+Overheat: 1  
 Dice: 1x Blue  
 Abilities:
 * +5 Accuracy
 * +3 Damage
 * Surge: + 2 Accuracy
-* If your target is 4 or more spaces away, you may reduce your Accuracy by 2 to gain +1 Damage. Maximum of twice per attack.
+* If your target is 4 or more spaces away, you may reduce your Accuracy by 2 to gain +2 Damage. Maximum of twice per attack.
 
 Cost: 250 Credits
 #### M-5 Rotary Emitter
 Ranged  
 Traits: Blaster - Gun  
 Weight: 4  
-Overheat: 3  
+Overheat: 4  
 Dice: 1x Red, 1x Green  
 Abilities:
 * +3 Accuracy
@@ -71,11 +53,11 @@ Cost: 200 Credits
 
 ### Tier 1
 
+#### Energy Cell
+![Energy Cell](./Custom%20Cards/Energy%20Cell.png)
+Cost: 50 Credits
 #### Optical Scope
-Attach to a ranged weapon  
-Abilities:
-* When declaring an attack, spend one Movement Point to gain +3 Accuracy on the next attack.
-
+![Optical Scope](./Custom%20Cards/Optical%20Scope.png)
 Cost: 100 Credits
 #### Double Blade
 Attach to a melee weapon  
@@ -91,12 +73,6 @@ Abilities:
 * Accessories with the trait “Grenade” deal +1 Damage.
 
 Cost: 150 Credits
-#### Energy Cell Expansion
-Attach to a ranged weapon  
-Abilities:
-* Add 2 to “Overheat” to attached ranged weapon.
-
-Cost: 50 Credits
 
 ### Tier 2
 
@@ -132,16 +108,10 @@ Cost: 150 Credits
 ### Tier 1
 
 #### Flash Grenade
-Trait: Grenade  
-Abilities:
-* 1 Strain: During your activation, deplete this card and Throw 3. Every figure on or adjacent to the target space becomes Weakened.
-
+![Flash Grenade](./Custom%20Cards/Flash%20Grenade.png)
 Cost: 50 Credits
 #### Adrenal Stim
-Trait: Medical - Drug  
-Abilities:
-* Exhaust during your activation to suffer 1 Damage and gain 3 Movement Points.
-
+![Adrenal Stim](./Custom%20Cards/Adrenal%20Stim.png)
 Cost: 150 Credits
 
 ### Tier 2
