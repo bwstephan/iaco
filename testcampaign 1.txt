@@ -1,0 +1,43 @@
+Missions:
+* The Logbook Story *
+* Green Side *
+* Grey Side *
+* Red Side *
+* Green Side *
+* Golden Opportunity Story
+
+ODS: 26
+* +1 Health
+* +1 Evade
+
+Credits 100
+
+Roster:
+Fenn 0 - 2XP
+Gaarkhan 0 - 2XP
+Jyn 0 - 2XP
+Gideon 5 - 2XP
+Diala 7 - 2XP
+Mak 2 - 2XP
+Loku 0 - 1XP
+Verena 0 - 1XP
+Biv 0 - 1XP
+Vinto 0 - 0XP
+Shyla 0 - 0XP
+
+
+Facilities built:
+* Comms Station
+* Workshop
+* Troop Training (constr. 11/25)
+
+Resarch completed:
+* Attachments Tier-1
+* Shuttle +1 Seat
+* Armor Tier-1 (research 0/10)
+
+Weapons/Attachments/Armor unlocked:
+* Energy Cell (50 cred)
+* Optical Scope (100 cred)
+* Double Blade (150 cred)
+* Dura Breastplate (150 cred)

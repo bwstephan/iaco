@@ -25,7 +25,7 @@ The starting Mission is “The Logbook”. Jump to the [Story Mission document](
 	* Add 2 damage per face down [Medkit](./New%20Items%20and%20Starting%20Weapons.md) to a hero. Then remove facedown Medkits.
 * Draw 3 new Side Missions.
 * Heroes recover Damage.
-  * Roll 3 yellow dice for each wounded hero. Remove 2 damage for each Surge rolled from the deployment card of that hero.
+  * Roll 3 red dice for each wounded hero. Remove 2 damage for each Damage rolled from the deployment card of that hero.
 * Spend XP on heroes to add Class Cards.
 * Heroes cannot spend XP on cards that cost 4 or more XP unless the appropriate research "Commander Training" is completed.
 * Facility functions
@@ -51,11 +51,11 @@ Ignore all rewards from Side Missions. Heroes that complete a Side Mission (not 
 Additional, rewards are based on the color of the side Mission:
 * Green Side Missions reward a new hero for the troop roster. After completing a Green Side Mission without all heroes being withdrawn, shuffle the hero deck and draw on hero. Add that hero to your troop roster.
 * Grey Side Missions reward an additional 150 Credits after competing it without all heroes being withdrawn.
-* Red Side Missions reward either X Research Points or X Engineering Points. Players choose which.
+* Red Side Missions reward either 10 Research Points or 10 Engineering Points. Players choose which.
 
 # Campaign Timer
 
-To advance the Campaign Timer, roll 3 yellow dice and count surges. Add all Surges as progress to the ODS Tracker. Imperial Units improve for all missions based on the tracker value:
+To advance the Campaign Timer, roll 3 red dice and count Damage. Add all Damage as progress to the ODS Tracker. Imperial Units improve for all missions based on the tracker value:
   * ODS 10: +1 Health
   * ODS 20: +1 Evade
   * ODS 30: +1 Threat Level
@@ -121,10 +121,11 @@ Upgrades:
 Cost:
 * 150 Credits
 * 15 Engineering Progress. 
+
 Power draw: 6  
 
 Abilities
-* \+1 Surge per dedicated troop member for building facilities or droids (droids are mechanized troops that do not get wound penalties and will be introduced with the [[README#Reworked Characters and Abilities ~Q4/26 - Rebel Reinforcements|Rebel Reinforcements]] Update).  
+* +1 Surge per dedicated troop member for building facilities or droids (droids are mechanized troops that do not get wound penalties and will be introduced with the [[README#Reworked Characters and Abilities ~Q4/26 - Rebel Reinforcements|Rebel Reinforcements]] Update).  
 * Unlocks Heavy Weapons and Special Weapons research.  
 * Unlocks Upgrades for other facilities.
 ### Troop Training
@@ -135,7 +136,7 @@ Cost:
 Power draw: 5
 
 Abilities
-* Unlocks "Commander Training" Research to unlock Skills that cost 4XP.  
+* Unlocks "Commander Training" Research to unlock Skills that cost 4XP or more.  
 * Train troop: Dedicate a hero (becomes unavailable for the following 2 missions) to gain 1XP. The hero cannot be dedicated to other tasks during that time.
 * Buy Training Upgrades:
   * Physical Conditioning
@@ -209,10 +210,11 @@ See [[New Items and Starting Weapons]].
 Cost: 10 Research Progress  
 Gives access to
 * Grants +1 Attachment Slot
+* Energy Cell
 * Optical Scope
 * Double Blade
 * Under Barrel Launcher
-* Energy Cell Expansion
+
 
 See [[New Items and Starting Weapons]].
 ### Accessories Tier-1

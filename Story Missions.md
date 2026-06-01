@@ -13,7 +13,7 @@ With the heroes of the Alliance occupied with more important matters, a group of
 
 ## 1 - The Logbook - Ryloth
 
-Threat Level 2  
+Threat Level 1  
 
 ![The Logbook](./Story%20Missions/01%20-%20The%20Logbook.png)
 
@@ -61,7 +61,17 @@ The Imperial player chooses 1 of the following:
 * Add "Past Life Enemies" as an active Story Mission.
 ## 2 Golden Opportunity - Tattooine
 
-Threat Level 1
+Threat Level 0
+Initial Groups:
+* Heavy Stormtrooper
+* Probe Droid
+* Imperial Officer
+Reserved Groups:
+* E-Web Engineer
+* Imperial Officer
+* Tusken Raider
+* 2x Stormtroopers
+* **Agent Blaise**
 !["Golden Opportunity"](./Story%20Missions/02%20-%20Golden%20Opportunity.png)
 
 !["Golden Opportunity"](./Story%20Missions/02%20-%20Golden%20Opportunity.jpg)
@@ -75,7 +85,7 @@ Threat Level 1
 * At the start of the mission, C-3PO (Human-Cyborg Relations) is deactivated. While C-3PO is deactivated, he is a neutral figure but does not block line of sight.
 * A Rebel hero can interact with C-3PO to make him operational. While C-3PO is operational, he is a Rebel figure and heroes control him as an ally. If C-3PO is defeated. his figure remains on the map. He discards all conditions and damage tokens and becomes deactivated.
 * An Imperial Figure can interact with a terminal to increase Threat by 1. Limit once per Terminal per round.
-* Doors are locked. A Rebel figure can attack dors and terminals (Health: 5, Defense 1 block). C-3PO can interacti with a door or terminal to open that door or discard that terminal.
+* Doors are locked. A Rebel figure can attack doors (Health: 5, Defense 1 block). 
 * The mission is will progress when a door opens.
 * When all heroes withdraw, the campaign is lost. You may retry the mission.
 
@@ -83,25 +93,38 @@ Threat Level 1
 *The first time a rebel interacts with C-3PO.*
 > "Oh my! What's happened?" The protocol droid staggers, but quickly regains his full functions. He gestures towards the door. "They are behind there. It's best to secure out retreat, or else we will be shot in the back!"
 
+* Deploy the reserved Imperial Officer and E-Web Engineer to the green point.
+* Redeploy or reinforce the Heavy Stormtrooper group to the blue point.
+* C-3PO can interact with a terminal to inflict stun or 2 damage on any non-elite enemy figure. Discard the terminal after this interaction.
+
 ### Raider Ambush
 *At the end of Round 3*  
-* Deploy the reserved Tusken Raider group to the blue point
+* Deploy the reserved Tusken Raider group divided between the blue points
+
+Reinforcements
+*When all terminals are discarded*
+* Deploy the reserved Stormtrooper group to the yellow point
 
 ### The Commander
 *The first time a door opens.*
 > "You! I have seen holos of you. What are you doing here? No matter! Get em boys!" The commander orders his best troops to attack.
 
 * Open all doors.
-* Deploy the reserved **Kayn Somos** and Stormtrooper group to the red point.
-* Apply +2 Health to **Kayn Somos**.
+* Deploy the reserved **Agent Blaise** and Stormtrooper group to the red point.
+* Apply +2 Health to **Agent Blaise**.
+* **Agent Blaise** loses the *Activate Agent*
+* **Agent Blaise** *Menace* ability chagend: 2 Surges: Increase OSD by 4.
+* **Agent Blaise** gains the *Shadow* ability: Spend a surge to gain Hidden.
 * Apply+1 Health and +2 Accuracy to the figures of the Stormtrooper group deployed by this event. This group can not be reinforced.
-* The mission is won, when **Kayn Somos** is defeated.
+* The mission is won, when **Agent Blaise** is defeated.
+
 ### End of Mission
-*When **Kayn Somos** is defeated.*
+*When **Agent Blaise** is defeated.*
 > You dispatch his guard, but once you start training your blasters on the commander, reinforcements stream in and guide him to the safety of the side streets. With C-3PO found, you should make haste back to your shuttle.
 
 ### Rewards
 * The group receives 200 credits in total and each hero receives 2 XP.
+* For each discarded terminal, the players may choose one hero. That hero can take one additional action once during the next mission.
 * The player may spend XP to add Class Cards to heroes like in the [[Campaign Progression and Strategy Layer|Campaign Round]] Step.
 * Each hero recovers 6 damage between missions. If heroes are wounded and have no damage to recover before 6 damage are recovered, flip their sheet, set damage equal to their health, and continue to recover damage until you are at 8.
 * All equipment is flipped to the front side, readied, and set to the state of the start of a mission. The player may redistribute equipment between heroes.
@@ -109,7 +132,7 @@ Threat Level 1
 
 ## 3 Stuck - Tattooine
 
-Threat Level 1
+Threat Level 0
 
 !["Stuck"](./Story%20Missions/03%20-%20Stuck.png)
 ### Card Text
