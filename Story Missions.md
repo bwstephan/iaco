@@ -85,24 +85,26 @@ Reserved Groups:
 * At the start of the mission, C-3PO (Human-Cyborg Relations) is deactivated. While C-3PO is deactivated, he is a neutral figure but does not block line of sight.
 * A Rebel hero can interact with C-3PO to make him operational. While C-3PO is operational, he is a Rebel figure and heroes control him as an ally. If C-3PO is defeated. his figure remains on the map. He discards all conditions and damage tokens and becomes deactivated.
 * An Imperial Figure can interact with a terminal to increase Threat by 1. Limit once per Terminal per round.
-* Doors are locked. A Rebel figure can attack doors (Health: 5, Defense 1 block). 
-* The mission is will progress when a door opens.
+* Doors are locked.
+* The mission progresses when C-3PO is activated.
 * When all heroes withdraw, the campaign is lost. You may retry the mission.
 
 ### Primary Function
-*The first time a rebel interacts with C-3PO.*
-> "Oh my! What's happened?" The protocol droid staggers, but quickly regains his full functions. He gestures towards the door. "They are behind there. It's best to secure out retreat, or else we will be shot in the back!"
+*The first time a rebel activates C-3PO.*
+> "Oh my! What's happened?" The protocol droid staggers, but quickly regains his full functions. He gestures towards the door. "They are behind there. It's best to secure out retreat, or else we will be shot in the back!". Before you can respond, he continues: "Did you know that I am fluid in over 3.000.000 forms of communication? I could interface with these terminals and help us decyphering the imperial code!"
 
 * Deploy the reserved Imperial Officer and E-Web Engineer to the green point.
 * Redeploy or reinforce the Heavy Stormtrooper group to the blue point.
-* C-3PO can interact with a terminal to inflict stun or 2 damage on any non-elite enemy figure. Discard the terminal after this interaction.
+* C-3PO can interact with a terminal to inflict 2 damage on any non-elite enemy figure or reduce the ODS counter by 2. Discard the terminal after this interaction. Discarded terminals confer a hidden bonus to the rebels after the mission.
+* A Rebel figure can attack doors (Health: 5, Defense 1 block). 
+* The mission is will progress when a door opens.
 
 ### Raider Ambush
 *At the end of Round 3*  
-* Deploy the reserved Tusken Raider group divided between the blue points
+* Deploy the reserved Tusken Raider group on the blue point
 
-Reinforcements
-*When all terminals are discarded*
+### Reinforcements
+*When 4 terminals are discarded*
 * Deploy the reserved Stormtrooper group to the yellow point
 
 ### The Commander
@@ -125,7 +127,7 @@ Reinforcements
 ### Rewards
 * The group receives 200 credits in total and each hero receives 2 XP.
 * For each discarded terminal, the players may choose one hero. That hero can take one additional action once during the next mission.
-* The player may spend XP to add Class Cards to heroes like in the [[Campaign Progression and Strategy Layer|Campaign Round]] Step.
+* The player may spend XP to add Class Cards to heroes like in the [[Campaign Progression and Strategy Layer|Campaign Round]] step, but do not resolve an full Campaign Round right now.
 * Each hero recovers 6 damage between missions. If heroes are wounded and have no damage to recover before 6 damage are recovered, flip their sheet, set damage equal to their health, and continue to recover damage until you are at 8.
 * All equipment is flipped to the front side, readied, and set to the state of the start of a mission. The player may redistribute equipment between heroes.
 * Without changing heroes in your squad or equipment, immediately play the 3rd Story Mission “Stuck” as a Forced Mission.

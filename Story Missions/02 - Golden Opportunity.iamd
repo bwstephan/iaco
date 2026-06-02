@@ -154,24 +154,15 @@
         "Position": "6, 11"
       },
       {
-        "TokenType": "ImperialDeploymentPointGreen",
-        "Position": "10, 5"
-      },
-      {
         "TokenType": "ImperialDeploymentPointYellow",
         "Position": "10, 13"
+      },
+      {
+        "TokenType": "ImperialDeploymentPointGreen",
+        "Position": "12, 5"
       }
     ],
     "FigureTokens": [
-      {
-        "CardIdentifier": {
-          "Name": "Heavy Stormtrooper",
-          "IsElite": false
-        },
-        "Color": "Gray",
-        "Position": "4, 4",
-        "Rotation": "RotateNone"
-      },
       {
         "CardIdentifier": {
           "Name": "C-3PO",
@@ -192,11 +183,29 @@
       },
       {
         "CardIdentifier": {
+          "Name": "Heavy Stormtrooper",
+          "IsElite": false
+        },
+        "Color": "Gray",
+        "Position": "9, 4",
+        "Rotation": "RotateNone"
+      },
+      {
+        "CardIdentifier": {
+          "Name": "Heavy Stormtrooper",
+          "IsElite": false
+        },
+        "Color": "Gray",
+        "Position": "4, 3",
+        "Rotation": "RotateNone"
+      },
+      {
+        "CardIdentifier": {
           "Name": "Imperial Officer",
           "IsElite": false
         },
         "Color": "Gray",
-        "Position": "6, 6",
+        "Position": "7, 7",
         "Rotation": "RotateNone"
       }
     ]
