@@ -1,0 +1,15 @@
+{
+  "Name": "Double Blade",
+  "ItemType": "Modification",
+  "WeaponType": "Melee",
+  "Attack": [],
+  "Modifications": 0,
+  "Traits": [],
+  "Abilities": [
+    "Cleave 2"
+  ],
+  "CostType": "Credits",
+  "CostAmount": 150,
+  "Tier": 0,
+  "ClassName": null
+}

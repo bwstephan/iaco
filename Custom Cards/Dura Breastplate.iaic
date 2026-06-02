@@ -1,0 +1,16 @@
+{
+  "Name": "Dura Breastplate",
+  "ItemType": "Armor",
+  "WeaponType": "None",
+  "Attack": [],
+  "Modifications": 0,
+  "Traits": [],
+  "Abilities": [
+    "+3 Health\n",
+    "Exhaust during an attack targeting you to add 1 <block> to the defense results."
+  ],
+  "CostType": "None",
+  "CostAmount": 0,
+  "Tier": 0,
+  "ClassName": null
+}

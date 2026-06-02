@@ -56,19 +56,9 @@ Cost: 200 Credits
 #### Optical Scope
 ![Optical Scope](./Custom%20Cards/Optical%20Scope.png)
 #### Double Blade
-Attach to a melee weapon  
-Abilities:
-* Cleave 2
-
-Cost: 150 Credits
+![Double Blade](./Custom%20Cards/Double%20Blade.png)
 #### Under Barrel Launcher
-Attach to a ranged weapon  
-Abilities:
-* You can carry one additional attachment with the trait “Grenade”.  
-* Increase all “Throw” values by 3.
-* Accessories with the trait “Grenade” deal +1 Damage.
-
-Cost: 150 Credits
+![Under Barrel Launcher](./Custom%20Cards/Under%20Barrel%20Launcher.png)
 
 ### Tier 2
 
@@ -84,11 +74,7 @@ Abilities:
 
 Cost: 100 Credits
 #### Dura Breastplate
-Abilities:
-* +3 Health
-* Exhaust during an attack targeting you to add 1 Block to the defense results.
-
-Cost: 150 Credits
+![Dura Breastplate](./Custom%20Cards/Dura%20Breastplate.png)
 
 ### Tier 2
 

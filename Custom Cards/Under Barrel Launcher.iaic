@@ -1,0 +1,17 @@
+{
+  "Name": "Under Barrel Launcher",
+  "ItemType": "Modification",
+  "WeaponType": "Ranged",
+  "Attack": [],
+  "Modifications": 0,
+  "Traits": [],
+  "Abilities": [
+    "You can carry one additional accessory with the trait “Grenade”.",
+    "Increase all “Throw” values by 3.\n",
+    "Accessories with the trait “Grenade” deal +1 Damage."
+  ],
+  "CostType": "Credits",
+  "CostAmount": 150,
+  "Tier": 0,
+  "ClassName": null
+}
