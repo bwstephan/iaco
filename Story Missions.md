@@ -154,8 +154,8 @@ Initial Groups:
 * -
 
 Reserved Groups:
-* green Rebel token
-* green Neutral token
+* yellow Rebel token
+* yellow Neutral token
 * Probe Droid
 * Royal Guards
 * elite Imperial Officer
@@ -175,11 +175,11 @@ Reserved Groups:
 
 * Heroes control C-3PO as ally at no threat cost.
 * If C-3PO is defeated. his figure remains on the map. He discards all conditions and damage tokens and becomes deactivated. A Rebel hero can interact with C-3PO to make him operational. While C-3PO is operational, he is a Rebel figure and heroes control him as an ally.
-* The red terminal represents docking clamp controls. A hero and C-3PO can interact with the docking clamp controls (1 Tech) to deactivate them and discard the token.
 * Doors to the animal pen are locked.
-* The yellow terminal represents the animal pens controls. A rebel figure can interact with the animal pen controls to unlock the door to the animal pen.
-* C-3PO does not spend an action to interact with the docking clamp controls or open doors.
-* The mission will progress when the docking clamp controls have been deactivated.
+* The red terminal represents docking clamp controls. A rebel figure can interact with the docking clamp controls (1 Tech) to deactivate them.
+* The yellow terminal represents the animal pens controls. A rebel figure can interact with the animal pen controls to unlock the doors to the animal pen.
+* C-3PO does not spend an action to interact with terminals or open doors.
+* The mission will progress when the docking clamp controls have been deactivated or the doors to the animal pen are unlocked.
 * When all heroes withdraw, the campaign is lost. You may retry the mission.
 
 
@@ -190,14 +190,14 @@ Reserved Groups:
 
 * Deploy the reserved Probe Droid to the green point next to the yellow terminal.
 * The doors to the animal pen are unlocked to all figures.
-* Place the green rebel mission token on the yellow point. The Rebel mission token is Rell. Rell has 8 Health. Rell is not a figure.
+* Place the yellow rebel mission token on the yellow point. The Rebel mission token is Rell. Rell has 8 Health. Rell is not a figure.
 * Deploy the reserved Nexu adjacent to Rell.
 * At the end of the round, as long as the doors to the animal pen are closed the Nexu attacks Rell. Roll 1 red die and assign damage to Rell equal tot he damage results.
 * The mission is lost if Rell has damage equal to his health.
 
 ### Royal Guards?
 *When a door to the terminal is first opened.*
->Next to the terminal controlling the docking clamps you can see the long red robes of a member of the Imperial Royal Guard. The opening door gives away your presence and the guards rushes to greet you with his staff.
+>Next to the terminal controlling the docking clamps you can see the long red robes of a member of the Imperial Royal Guard! The opening door gives away your presence and the guards rushes to greet you with his staff.
 
 * Deploy the reserved Royal Guard group, the elite Imperial Officer and the ISB Infiltrators to the red Deployment Point.
 * Apply -2 Speed and +1 Block to the Royal Guard group.
@@ -220,11 +220,11 @@ Reserved Groups:
 * Deploy the reserved elite Nexu to the green point closest to Rell. Ignore closed doors for measuring this distance.
 * Reinforce or deploy the ISB Infiltrators to the blue point.
 * Deploy the reserved elite Stormtroopers to the red point.
-* Place the green neutral mission token on the blue point. This represents the hatch.
+* Place the yellow neutral mission token on the blue point. This represents the hatch.
 * A hero carrying Rell can interact with the hatch, for the pilot to board the shuttle, winning the mission.
 
 ### End of Mission
-*When the heroes depart with Rell.*
+*When the heroes and Rell board the shuttle.*
 > Helping Rell into the seat, it doesn't take long for him to make the shuttle ready. You lift off, just in time before reinforcements arrive. Your pilot took his treatment a bit too personally though, making a last pass over the bay, raining down blaster fire on the newly arrived imperial troopers.
 
 ### Rewards:
