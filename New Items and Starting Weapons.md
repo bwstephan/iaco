@@ -55,12 +55,12 @@ Cost: 200 Credits
 ![Energy Cell](./Custom%20Cards/Energy%20Cell.png)
 #### Optical Scope
 ![Optical Scope](./Custom%20Cards/Optical%20Scope.png)
-#### Double Blade
-![Double Blade](./Custom%20Cards/Double%20Blade.png)
-#### Under Barrel Launcher
-![Under Barrel Launcher](./Custom%20Cards/Under%20Barrel%20Launcher.png)
 
 ### Tier 2
+#### Double Blade
+![Double Blade](./Custom%20Cards/Double%20Blade.png)
+#### Grenade Launcher
+![Under Barrel Launcher](./Custom%20Cards/Grenade%20Launcher.png)
 
 ### Tier 3
 ## Armors
@@ -68,16 +68,10 @@ Cost: 200 Credits
 ### Tier 1
 
 #### Combat Coat
-Abilities:
-* +2 Health
-* Exhaust during an attack targeting you to add 1 Evade to the defense results.
-
-Cost: 100 Credits
+![Dura Breastplate](./Custom%20Cards/Combat%20Coat.png)
+### Tier 2
 #### Dura Breastplate
 ![Dura Breastplate](./Custom%20Cards/Dura%20Breastplate.png)
-
-### Tier 2
-
 ### Tier 3
 ## Accessories
 

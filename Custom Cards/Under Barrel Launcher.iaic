@@ -1,5 +1,5 @@
 {
-  "Name": "Under Barrel Launcher",
+  "Name": "Grenade Launcher",
   "ItemType": "Modification",
   "WeaponType": "Ranged",
   "Attack": [],
@@ -11,7 +11,7 @@
     "Accessories with the trait “Grenade” deal +1 Damage."
   ],
   "CostType": "Credits",
-  "CostAmount": 150,
+  "CostAmount": 250,
   "Tier": 0,
   "ClassName": null
 }
