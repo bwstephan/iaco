@@ -13,7 +13,17 @@ With the heroes of the Alliance occupied with more important matters, a group of
 
 ## 1 - The Logbook - Ryloth
 
-Threat Level 1  
+Threat Level 0  
+
+Initial groups:
+* Stormtroopers
+* Imperial Officer
+* Probe Droid
+
+Reserved groups:
+* E-Web Engineer
+* Imperial Officer
+* Stormtroopers
 
 ![The Logbook](./Story%20Missions/01%20-%20The%20Logbook.png)
 
@@ -23,6 +33,7 @@ Threat Level 1
 > The deep shadows cast by the trees do little to cool you in the humid climate of Ryloth's jungles. You approach the place your contact told you about and soon can hear sounds you recognize as Stormtrooper radio chatter.
 > Being careful with your approach, you manage to sneak close, overhearing an Imperial officer: "... and keep your grubby gloves off my terminals. This is important data and we can't afford to lose it!".
 > You heard enough and charge out of your hiding spot, seizing the advantage for your first attack.  
+
 * A Rebel hero can attack a terminal (Health: 4, Defense: 1 block). Apply +1 block to the terminals defense results if it is adjacent to 1 or more Imperial figures. Remove destroyed terminals from the map.
 * A Rebel hero can interact with a terminal (1 Tech) to download the outpost logbook.
 * Doors are locked to Imperial figures.
@@ -32,15 +43,16 @@ Threat Level 1
 ### Fortified
 *The first time the door opens.*
 > "They're here!" the Imperial forces shout, as they scramble their defenses. "Keep them away from the terminals!"
-> There's a crackle from your comlink. "Imperial forces on approach!" your contact tells you. "Just get whatever you can and get out! Transport is waiting for you."  
-* Deploy the reseved E-Web Engineer to any yellow point.
-* Deploy the reserved Stormtrooper group and Imperial Officer to the red deployment point.
+> There's a crackle from your comlink. "Imperial forces on approach!" your contact tells you. "Just get whatever you can and get out! Transport is waiting for you." 
+ 
+* Deploy the reseved E-Web Engineer and Imperial Officer to any yellow point.
 
 ### Lockdown
-*At the end of the Round in which one of the doors open for the first time.*  
-The Imperial player chooses 1 of the following:
-* Each terminal has 7 Health instead of 4.
-* The doors close and are locked. A Rebel figure can attack a door (Health: 7, Defense: 1 block). The red deployment point is now active.
+*When 3 Terminals have been discarded.*  
+* The doors close and are locked to Rebel figures. A Rebel figure can attack a door (Health: 7, Defense: 1 block).
+* A door adjacent to a Rebel figure does not block their movement or line of sight.
+* The red deployment point is now active.
+* Deploy the reserved Stormtrooper group to a green deployment point.
 
 ### End of Mission
 *When the logbook is downloaded and all terminals are destroyed.*
@@ -62,10 +74,12 @@ The Imperial player chooses 1 of the following:
 ## 2 Golden Opportunity - Tattooine
 
 Threat Level 0
+
 Initial Groups:
 * Heavy Stormtrooper
 * Probe Droid
 * Imperial Officer
+
 Reserved Groups:
 * E-Web Engineer
 * Imperial Officer
@@ -136,45 +150,78 @@ Reserved Groups:
 
 Threat Level 0
 
+Initial Groups:
+* -
+
+Reserved Groups:
+* green Rebel token
+* green Neutral token
+* Probe Droid
+* Royal Guards
+* elite Imperial Officer
+* ISB Infiltrators
+* Nexu
+* elite Nexu
+* elite Stormtroopers
+
 !["Stuck"](./Story%20Missions/03%20-%20Stuck.png)
 ### Card Text
 > You arrive at the shuttle when it's still refueling. An administrator of the port comes over with 2 armed guards alleging smuggling activity they need to interview you about. Patch made sure your documentation is up to date so you follow them in an attempt to keep a low profile.
 
 ### Mission Briefing
->A couple of hours later, you are still unattended. The waiting room you are in does not have any guards, so you decide to just sneak out and make a run for it.
->You get to the space dock via the oberservational area overlooking the bay your shuttle is moored in. Immediately, you notice clamps grasping the struts of your shuttle and you can't make out your pilot Rell anywhere around the craft. Moments later you hear his cries out of an animal pen your saw earlier.
+>A couple of hours later, you are still unattended. The waiting room you are in does not have any guards, so you decide to just sneak out and make a run for it.  
+>You get to the space dock via the oberservational area overlooking the bay your shuttle is moored in. Immediately, you notice clamps grasping the struts of your shuttle and you can't make out your pilot Rell anywhere around the craft. Moments later you hear his cries in the distance. Whatever predicament he is in, it's best not to lose too many moments.  
 >You might have to let yourself out of this kriffing scughole after all.
 
 * Heroes control C-3PO as ally at no threat cost.
 * If C-3PO is defeated. his figure remains on the map. He discards all conditions and damage tokens and becomes deactivated. A Rebel hero can interact with C-3PO to make him operational. While C-3PO is operational, he is a Rebel figure and heroes control him as an ally.
-* The terminal represents docking clamp controls. A hero and C-3PO can interact with the docking clamp controls (1 Tech) to deactivate them and discard the token.
+* The red terminal represents docking clamp controls. A hero and C-3PO can interact with the docking clamp controls (1 Tech) to deactivate them and discard the token.
+* Doors to the animal pen are locked.
+* The yellow terminal represents the animal pens controls. A rebel figure can interact with the animal pen controls to unlock the door to the animal pen.
 * C-3PO does not spend an action to interact with the docking clamp controls or open doors.
-* The Rebel mission token is Rell. A hero can retrieve Rell. Apply -1 Speed and -1 block to the hero carrying Rell.
-* The mission will progress when the docking clamp controls have been deactivated and Rell has been retrieved.
+* The mission will progress when the docking clamp controls have been deactivated.
 * When all heroes withdraw, the campaign is lost. You may retry the mission.
+
+
+### Animal Pens
+*When a rebel figure interacts with the animal pens controls
+> On the console, you can see a camera feed of a pen near the shuttle bay. A beat up Rell is chained to a post, with a Nexu eagerly pacing around him. Even though the feed doesn't transmit audio, it's alsmost as you could hear his terrified screams.
+> Unlocking the doors to the pen is easy. But as soon as you did that, a probe droid peels out of an alcove near the terminal, ready to engage.
+
+* Deploy the reserved Probe Droid to the green point next to the yellow terminal.
+* The doors to the animal pen are unlocked to all figures.
+* Place the green rebel mission token on the yellow point. The Rebel mission token is Rell. Rell has 8 Health. Rell is not a figure.
+* Deploy the reserved Nexu adjacent to Rell.
+* At the end of the round, as long as the doors to the animal pen are closed the Nexu attacks Rell. Roll 1 red die and assign damage to Rell equal tot he damage results.
+* The mission is lost if Rell has damage equal to his health.
 
 ### Royal Guards?
 *When a door to the terminal is first opened.*
->Next to the terminal controlling the docking clamps you can see the long red robes of a member of the Imperial Royal Guard. The opening door gives away your presence and the guard rushes to greet you with his staff.
+>Next to the terminal controlling the docking clamps you can see the long red robes of a member of the Imperial Royal Guard. The opening door gives away your presence and the guards rushes to greet you with his staff.
 
-* Deploy the reserved Royal Guard group and the elite Imperial Officer to the red Deployment Point.
-* Open the other door to the terminal.
+* Deploy the reserved Royal Guard group, the elite Imperial Officer and the ISB Infiltrators to the red Deployment Point.
+* Apply -2 Speed and +1 Block to the Royal Guard group.
+* Open the other door to the terminal room.
 
 ### The Hounds
 *When a door to the Animal Pen opens*
 > Opening the door to the animal pen, you see a Nexu eagerly pacing. In the corner, Rell cries out "Not a moment too soon, eh?".
 
-* Deploy the reserved Nexu to the yellow Deployment Point.
+* Open both doors to the animal pen.
+* The Nexu no longer attacks Rell.
+* A hero can retrieve Rell. Apply -1 Speed to the and +3 Accuracy for attacks on the hero carrying Rell.
+* Rebel figures can interact with the doors to open and close them.
 
 ### Flight to the Shuttle
 *When a hero retreives the pilot*
 >"You know this wasn't the only one, right?" Rell caughs up blood between sentences. "The other one must have escaped." Just as he finishes his sentence, you hear a familiar cry not too far away.  
 >"With the docking clamps released, all we need to do is get to the shuttle. He winces, holding his side. "Oh ... they are going to pay for this ..." he hisses through clenched teeth.
 
-* Deploy the reserved elite Nexu to any green deployment point.
-* Increase Threat by 4 and resolve an optional deployment.
+* Deploy the reserved elite Nexu to the green point closest to Rell. Ignore closed doors for measuring this distance.
+* Reinforce or deploy the ISB Infiltrators to the blue point.
+* Deploy the reserved elite Stormtroopers to the red point.
 * Place the green neutral mission token on the blue point. This represents the hatch.
-* A hero carrying Rell can interacti with the hatch, for the pilot to board the shuttle, winning the mission.
+* A hero carrying Rell can interact with the hatch, for the pilot to board the shuttle, winning the mission.
 
 ### End of Mission
 *When the heroes depart with Rell.*

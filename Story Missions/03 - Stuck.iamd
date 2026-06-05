@@ -4,11 +4,6 @@
     "MissionType": "Campaign",
     "Tiles": [
       {
-        "AssetId": "SWI01-14B",
-        "Position": "4, -3",
-        "Rotation": "Rotate270"
-      },
-      {
         "AssetId": "SWI01-38A",
         "Position": "4, -1",
         "Rotation": "Rotate90"
@@ -94,6 +89,51 @@
         "Rotation": "Rotate180"
       },
       {
+        "AssetId": "SWI01-05B",
+        "Position": "4, -4",
+        "Rotation": "Rotate180"
+      },
+      {
+        "AssetId": "SWI01-17B",
+        "Position": "-2, -3",
+        "Rotation": "Rotate90"
+      },
+      {
+        "AssetId": "SWI01-02B",
+        "Position": "-1, -5",
+        "Rotation": "Rotate90"
+      },
+      {
+        "AssetId": "SWI32-06B",
+        "Position": "0, 6",
+        "Rotation": "RotateNone"
+      },
+      {
+        "AssetId": "SWI01-14B",
+        "Position": "-4, 5",
+        "Rotation": "Rotate180"
+      },
+      {
+        "AssetId": "SWI01-17B",
+        "Position": "-3, 5",
+        "Rotation": "RotateNone"
+      },
+      {
+        "AssetId": "SWI01-10B",
+        "Position": "-4, 7",
+        "Rotation": "Rotate90"
+      },
+      {
+        "AssetId": "SWI01-14B",
+        "Position": "4, 5",
+        "Rotation": "RotateNone"
+      },
+      {
+        "AssetId": "SWI01-17B",
+        "Position": "2, 5",
+        "Rotation": "RotateNone"
+      },
+      {
         "AssetId": "SWI01-01B",
         "Position": "-1, 1",
         "Rotation": "Rotate90"
@@ -102,46 +142,6 @@
         "AssetId": "SWI01-18B",
         "Position": "-5, 1",
         "Rotation": "Rotate90"
-      },
-      {
-        "AssetId": "SWI01-02B",
-        "Position": "-1, -4",
-        "Rotation": "Rotate90"
-      },
-      {
-        "AssetId": "SWI01-05B",
-        "Position": "4, 6",
-        "Rotation": "Rotate270"
-      },
-      {
-        "AssetId": "SWI32-06B",
-        "Position": "0, 7",
-        "Rotation": "RotateNone"
-      },
-      {
-        "AssetId": "SWI01-10B",
-        "Position": "-4, 8",
-        "Rotation": "Rotate90"
-      },
-      {
-        "AssetId": "SWI01-14B",
-        "Position": "-4, 6",
-        "Rotation": "Rotate180"
-      },
-      {
-        "AssetId": "SWI01-17B",
-        "Position": "2, -3",
-        "Rotation": "RotateNone"
-      },
-      {
-        "AssetId": "SWI01-17B",
-        "Position": "-2, 4",
-        "Rotation": "Rotate90"
-      },
-      {
-        "AssetId": "SWI01-17B",
-        "Position": "-3, 6",
-        "Rotation": "RotateNone"
       }
     ],
     "Zones": [],
@@ -155,12 +155,12 @@
         "Rotation": "Rotate90"
       },
       {
-        "Position": "2, 6",
-        "Rotation": "RotateNone"
+        "Position": "4, -1",
+        "Rotation": "Rotate90"
       },
       {
-        "Position": "4, 3",
-        "Rotation": "Rotate90"
+        "Position": "2, -4",
+        "Rotation": "RotateNone"
       }
     ],
     "Tokens": [
@@ -169,40 +169,44 @@
         "Position": "9, 6"
       },
       {
-        "TokenType": "Terminal",
-        "Position": "12, -12"
-      },
-      {
-        "TokenType": "ImperialDeploymentPointGreen",
-        "Position": "6, -10"
-      },
-      {
         "TokenType": "ImperialDeploymentPointGreen",
         "Position": "17, -6"
       },
       {
-        "TokenType": "ImperialDeploymentPointRed",
-        "Position": "11, -11"
+        "TokenType": "YellowTerminal",
+        "Position": "17, -5"
       },
       {
-        "TokenType": "ImperialDeploymentPointBlue",
-        "Position": "1, 0"
+        "TokenType": "RedTerminal",
+        "Position": "8, -13"
+      },
+      {
+        "TokenType": "ImperialDeploymentPointRed",
+        "Position": "9, -13"
       },
       {
         "TokenType": "ImperialDeploymentPointYellow",
-        "Position": "3, 5"
+        "Position": "5, -5"
       },
       {
-        "TokenType": "GreenRebelMission",
-        "Position": "3, 7"
-      },
-      {
-        "TokenType": "ImperialDeploymentPointGreen",
-        "Position": "1, -5"
+        "TokenType": "ImperialDeploymentPointBlue",
+        "Position": "1, 1"
       },
       {
         "TokenType": "ImperialDeploymentPointGreen",
-        "Position": "-3, 7"
+        "Position": "-4, -4"
+      },
+      {
+        "TokenType": "Crate",
+        "Position": "-1, 3"
+      },
+      {
+        "TokenType": "Crate",
+        "Position": "0, 7"
+      },
+      {
+        "TokenType": "Crate",
+        "Position": "15, -12"
       }
     ],
     "FigureTokens": [
